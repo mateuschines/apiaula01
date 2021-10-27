@@ -207,18 +207,6 @@
                     "nome": "[Envio Do Exterior] Como Minha Encomenda Do Exterior Será Entregue Quando Chegar Ao Brasil?"
                 },
                 {
-                    "id": 53,
-                    "nome": "[Taxa De Envio] Por Que A Taxa De Envio Real É Diferente Daquela Mostrada No Sistema No site?"
-                },
-                {
-                    "id": 54,
-                    "nome": "[Rastreamento De Pedido] Como Entro Em Contato Com Os Parceiros Logísticos No site Para Rastrear Meu Pedido?"
-                },
-                {
-                    "id": 55,
-                    "nome": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL"
-                },
-                {
                     "id": 56,
                     "nome": "Noções Básicas Do Comprador] Qual É O Tempo De Envio?"
                 },
@@ -251,26 +239,6 @@
                 {
                     "id": 63,
                     "nome": "Instruções De Devolução Para Compradores"
-                },
-                {
-                    "id": 64,
-                    "nome": "[Reembolso Da Devolução] Depois De Clicar Em 'Pedido Recebido' Ainda Posso Enviar A Solicitação De Devolução/Reembolso?"
-                },
-                {
-                    "id": 65,
-                    "nome": "[Reembolso Da Devolução] Como Devolver Meu Item Errado / Danificado Depois Que A Solicitação De Devolução For Confirmada?"
-                },
-                {
-                    "id": 66,
-                    "nome": "[Reembolso Da Devolução] Se Meu Pedido Contiver Mais De Um Item, Mas Apenas Um Estiver Danificado, Posso Aceitar O Restante Dos Itens E Rejeitar O Único Item Danificado?"
-                },
-                {
-                    "id": 67,
-                    "nome": "[Reembolso Da Devolução] O Que Eu Faço Quando O Produto É Perdido Ou Danificado?"
-                },
-                {
-                    "id": 68,
-                    "nome": "[Reembolso Da Devolução] Quem Paga A Taxa De Envio Para Devolver A Encomenda Ao Vendedor?"
                 }
             ]
         }
