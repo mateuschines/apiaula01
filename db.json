@@ -1,585 +1,585 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Segurança de Conta e Outros",
-            "artigos": [
-                {
-                    "id": 2,
-                    "nome": "[Segurança Do Produto] É Seguro Comprar Medicamentos / Suplementos De Saúde neste site?"
-                },
-                {
-                    "id": 3,
-                    "nome": "[Segurança Do Produto] Como Confirmar Se Um Produto É Autêntico?"
-                },
-                {
-                    "id": 4,
-                    "nome": "[Segurança Da Conta] Como Faço Para Detectar Um Golpe?"
-                },
-                {
-                    "id": 5,
-                    "nome": "[Segurança Da Conta] Como Evitar Golpes?"
-                },
-                {
-                    "id": 6,
-                    "nome": "[Segurança Da Conta] Por Que Minha Tentativa De Login Falhou?"
-                },
-                {
-                    "id": 7,
-                    "nome": "[Segurança Da Conta] Por Que Minha Solicitação De Remoção De Conta Foi Rejeitada?"
-                },
-                {
-                    "id": 8,
-                    "nome": "[Segurança Da Conta] Posso Alterar Minha Senha?"
-                },
-                {
-                    "id": 9,
-                    "nome": "[Minha Conta] Como Adiciono / Edito Meu Endereço?"
-                },
-                {
-                    "id": 10,
-                    "nome": "[Minha Conta] Como Faço Para Remover Minha Conta neste site?"
-                },
-                {
-                    "id": 11,
-                    "nome": "[Minha Conta] Como Altero O Idioma neste site?"
-                },
-                {
-                    "id": 12,
-                    "nome": "[Segurança Da Conta] Posso Me Registrar Novamente Depois De Remover Minha Conta?"
-                },
-                {
-                    "id": 13,
-                    "nome": "[Segurança Da Conta] Por Que Preciso Verificar Meu Número De Telefone?"
-                },
-                {
-                    "id": 14,
-                    "nome": "[Comentários] Como Entrar Em Contato Com O Atendimento Ao Cliente neste site?"
-                },
-                {
-                    "id": 15,
-                    "nome": "[Minha Conta] Por Que Não Recebi Meu Código De Verificação?"
-                },
-                {
-                    "id": 16,
-                    "nome": "[Noções Básicas Do Vendedor] Como Alterar Meus Dados Bancários"
-                },
-                {
-                    "id": 17,
-                    "nome": "[Segurança Da Conta] O Que Devo Fazer Se Esquecer Minha Senha?"
-                }
-            ]
-        },
-        {
-            "id": 19,
-            "nome": "Pedidos e Pagamentos",
-            "artigos": [
-                {
-                    "id": 20,
-                    "nome": "[Rastreamento De Pedidos] Como Faço Para Rastrear Minha Encomenda Do Exterior?"
-                },
-                {
-                    "id": 21,
-                    "nome": "[Cancelamento Do Pedido] Posso Cancelar Meu Pedido?"
-                },
-                {
-                    "id": 22,
-                    "nome": "[Pagamento] Quanto Tempo Tenho Para Fazer O Pagamento Do Meu Pedido Não Pago?"
-                },
-                {
-                    "id": 23,
-                    "nome": "[Novo No Site] Como Posso Comprar Vários Produtos De Diferentes Vendedores No Mesmo Pedido?"
-                },
-                {
-                    "id": 24,
-                    "nome": "[Segurança Do Pedido] O Que É A Garantia do site?"
-                },
-                {
-                    "id": 25,
-                    "nome": "[Novo No site] Quais Opções De Pagamento São Aceitas Pelo site?"
-                },
-                {
-                    "id": 26,
-                    "nome": "[Novo No site] Posso Alterar Meu Método De Pagamento?"
-                },
-                {
-                    "id": 27,
-                    "nome": "[Taxa De Envio] Como Verifico A Taxa De Envio Do Meu Pedido?"
-                },
-                {
-                    "id": 28,
-                    "nome": "[Cartão De Crédito / Débito] Como Excluo Os Detalhes Do Meu Cartão De Crédito / Débito?"
-                },
-                {
-                    "id": 29,
-                    "nome": "[Parcelamento] Como Faço Para Pagar Parcelado Com Cartão De Crédito?"
-                },
-                {
-                    "id": 30,
-                    "nome": "[Leve Mais Por Menos] Posso Usar Cupons E Moedas Do site Para Pagar Produtos Em Leve Mais Por Menos?"
-                },
-                {
-                    "id": 31,
-                    "nome": "[Status Do Pagamento] Como Sei Se Meu Pagamento Foi Bem-Sucedido?"
-                },
-                {
-                    "id": 32,
-                    "nome": "[Parcelamento] Posso Usar Cupons / Moedas do site Se Estiver Pagando Parcelado Com Cartão De Crédito?"
-                },
-                {
-                    "id": 33,
-                    "nome": "[Frete Internacional] Quanto Tempo Levará Para Eu Receber Meu Pedido Vindo Do Exterior?"
-                },
-                {
-                    "id": 34,
-                    "nome": "[Cartão De Crédito] Quais Cartões De Crédito Posso Usar No site?"
-                },
-                {
-                    "id": 35,
-                    "nome": "[Mudanças No Pedido] Por Que Meu Pedido Foi Dividido Pelo Vendedor?"
-                },
-                {
-                    "id": 36,
-                    "nome": "FAQs Pagamento"
-                },
-                {
-                    "id": 37,
-                    "nome": "[Proteção De Pedido] O Site Fornece Seguro Para Meu Pedido?"
-                },
-                {
-                    "id": 38,
-                    "nome": "[Entrega] Posso Alterar A Opção De Envio Após O Envio Do Meu Pedido?"
-                },
-                {
-                    "id": 39,
-                    "nome": "[Configurações De Pagamento] Por Que Não Consigo Adicionar Minha Opção De Pagamento Preferida?"
-                }
-            ]
-        },
-        {
-            "id": 40,
-            "nome": "Venda e Faturamento",
-            "artigos": [
-                {
-                    "id": 41,
-                    "nome": "Como Posso Denunciar A Violação Dos Meus Direitos?"
-                },
-                {
-                    "id": 42,
-                    "nome": "[Noções Básicas Do Vendedor] Como Começo A Vender No Site?"
-                }
-            ]
-        },
-        {
-            "id": 44,
-            "nome": "Envio e Entrega",
-            "artigos": [
-                {
-                    "id": 45,
-                    "nome": "[Rastreamento De Pedidos] Como Faço Para Verificar O Status Do Meu Pedido?"
-                },
-                {
-                    "id": 46,
-                    "nome": "[Entrega] Por Que Não Consigo Selecionar Uma Opção De Envio Durante A Finalização Da Compra?"
-                },
-                {
-                    "id": 47,
-                    "nome": "[FAQ] Sobre Os Serviços De Envio E Entrega No site"
-                },
-                {
-                    "id": 48,
-                    "nome": "[Entrega] Posso Agendar A Data E Hora De Entrega Do Meu Pedido?"
-                },
-                {
-                    "id": 49,
-                    "nome": "[Entrega] Posso Alterar Meu Endereço De Entrega Depois Que Meu Pedido For Feito?"
-                },
-                {
-                    "id": 50,
-                    "nome": "[Entrega] Por Que O site Mudou A Opção De Envio Do Meu Pedido Durante A Finalização Da Compra?"
-                },
-                {
-                    "id": 51,
-                    "nome": "[Parceiros Logísticos] Quais São As Opções De Envio Disponíveis NO site?"
-                },
-                {
-                    "id": 52,
-                    "nome": "[Envio Do Exterior] Como Minha Encomenda Do Exterior Será Entregue Quando Chegar Ao Brasil?"
-                },
-                {
-                    "id": 53,
-                    "nome": "[Taxa De Envio] Por Que A Taxa De Envio Real É Diferente Daquela Mostrada No Sistema No site?"
-                },
-                {
-                    "id": 54,
-                    "nome": "[Rastreamento De Pedido] Como Entro Em Contato Com Os Parceiros Logísticos No site Para Rastrear Meu Pedido?"
-                },
-                {
-                    "id": 55,
-                    "nome": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL"
-                },
-                {
-                    "id": 56,
-                    "nome": "Noções Básicas Do Comprador] Qual É O Tempo De Envio?"
-                },
-                {
-                    "id": 57,
-                    "nome": "[PRODUTOS NA AGÊNCIA DOS CORREIOS"
-                }
-            ]
-        },
-        {
-            "id": 58,
-            "nome": "Devoluções e Reembolsos",
-            "artigos": [
-                {
-                    "id": 59,
-                    "nome": "[Reembolso E Devolução] O Vendedor Pode Rejeitar Minha Solicitação De Cancelamento? Posso Enviar Outra Solicitação De Cancelamento?"
-                },
-                {
-                    "id": 60,
-                    "nome": "[Reembolso E Devolução] Como O Time De Suporte No site Ajuda A Solucionar Pedidos De Reembolso?"
-                },
-                {
-                    "id": 61,
-                    "nome": "[Reembolso E Devolução] Como O Time De Suporte No site Pode Te Ajudar Com Solicitações De Reembolso"
-                },
-                {
-                    "id": 62,
-                    "nome": "[Solicitação De Reembolso] Quais Arquivos Podem Ser Úteis Ao Solicitar Reembolso?"
-                },
-                {
-                    "id": 63,
-                    "nome": "Instruções De Devolução Para Compradores"
-                },
-                {
-                    "id": 64,
-                    "nome": "[Reembolso Da Devolução] Depois De Clicar Em 'Pedido Recebido' Ainda Posso Enviar A Solicitação De Devolução/Reembolso?"
-                },
-                {
-                    "id": 65,
-                    "nome": "[Reembolso Da Devolução] Como Devolver Meu Item Errado / Danificado Depois Que A Solicitação De Devolução For Confirmada?"
-                },
-                {
-                    "id": 66,
-                    "nome": "[Reembolso Da Devolução] Se Meu Pedido Contiver Mais De Um Item, Mas Apenas Um Estiver Danificado, Posso Aceitar O Restante Dos Itens E Rejeitar O Único Item Danificado?"
-                },
-                {
-                    "id": 67,
-                    "nome": "[Reembolso Da Devolução] O Que Eu Faço Quando O Produto É Perdido Ou Danificado?"
-                },
-                {
-                    "id": 68,
-                    "nome": "[Reembolso Da Devolução] Quem Paga A Taxa De Envio Para Devolver A Encomenda Ao Vendedor?"
-                }
-            ]
-        }
-    ],
-    "artigos": [
-        {
-            "id": 2,
-            "titulo": "[Segurança Do Produto] É Seguro Comprar Medicamentos / Suplementos De Saúde neste site?",
-            "mensagem": "É seguro se o medicamento / suplemento de saúde se enquadrar nas categorias permitidas para venda. O site permite a venda de medicamentos sem receita e suplementos de saúde que sejam autorizados pela ANVISA .    Você deve ter cuidado e evitar comprar estes tipos de medicamentos: Medicamentos prescritos Medicamentos regulamentados (sem uma licença de venda online) Suplementos de saúde com alegações enganosas, ou falsas Drogas ilícitas cuja fabricação, venda ou uso são ilegais.   Aqui estão algumas dicas para entender se é seguro comprar o medicamento / suplemento de saúde NO site:   Embalagem completa e sem alterações Com base na imagem do produto, identificar se o conteúdo do medicamento / suplemento está bem selado, sem sinais de adulteração. O texto e as cores do medicamento / suplemento são nítidos, sem sinal de adulteração e correspondem às imagens do fabricante oficial. Certifique-se de que não haja erros ortográficos ou gramaticais na impressão da embalagem. Data de validade impressa de forma clara na descrição do produto Você deve encontrar uma data de validade na imagem do produto ou na descrição do produto. Licença registrada Verifique se o vendedor disponibilizou uma licença oficial Detalhes verificáveis Verifique o endereço do fabricante Se houver um QR code disponível, verifique se ele leva ao site oficial do fabricante.   Para ter ainda mais certeza, verifique os registros da ANVISA  para produtos e serviços de saúde. Se você encontrar qualquer produto que suspeite ser falso ou ilegal sendo vendido NO site, você pode denunciar esse produto na página do produto, por meio do aplicativo do site."
-        },
-        {
-            "id": 3,
-            "titulo": "[Segurança Do Produto] Como Confirmar Se Um Produto É Autêntico?",
-            "mensagem": "Para confirmar se um produto é autêntico, você pode verificar se ele está classificado como vendedor Oficial. Produtos de vendedores do site Oficial devem ter a garantia de ser 100% autêntico, já que vendedores do site Oficial são verificados e possuem a liberação para venda desses produtos.    Procure a etiqueta de Oficial para determinar se um produto é de um vendedor autorizado.Se o produto não for vendido por um vendedor do site Oficial, você pode: Verificar as avaliações do produto para ver as opiniões de compradores anteriores Verificar na descrição do produto se menciona que o vendedor é um distribuidor autorizado do produto   Embora produtos falsificados ou produtos que tenham infringido os direitos de propriedade intelectual (IP) de terceiros sejam proibidos NO site, podemos não tê-los identificado durante nossas verificações pontuais. Você pode reportar este produto, através do aplicativo do site. Desta forma, realizaremos as análises necessárias para inativação do anúncio."
-        },
-        {
-            "id": 4,
-            "titulo": "[Segurança Da Conta] Como Faço Para Detectar Um Golpe?",
-            "mensagem": "Detectando golpes. Golpes geralmente são identificados por Links não oficiais que solicitam dados sensíveis da conta, por exemplo, one-time passwords (OTPs) ou senhas da conta Erros ortográficos e de gramática Aqui estão algumas situações comuns que alguns golpistas que tentam se passar por funcionários no site utilizam ao entrar em contato: Afirmam que você ganhou prêmios Eles podem, ainda, solicitar que você execute um dos seguintes procedimentos: Compartilhe seu OTP (código de verificação) / senha da conta / número PIN da carteira site Compartilhe seus dados pessoais, como sua data de nascimento, que são dados que os agentes de atendimento ao cliente normalmente utilizam para confirmar a identidade de um comprador Efetue o pagamento via transferência fora do Aplicativo do site para um número fornecido por eles Você deve sempre ignorar ou relatar esses casos, pois a do site nunca solicitará esses detalhes por meio de plataformas não oficiais. Além disso, a do site nunca pedirá suas senhas e números PIN. NO site entrará em contato com você apenas por meio de canais oficiais, como o App do site, contas verificadas de mídia social ou endereços de e-mail que terminam com do site.com.    Denunciando golpes Se você enviou qualquer informação pessoal ou da conta a terceiros suspeitos, você deve informar imediatamente ao Time de Atendimento ao Cliente No site. Enquanto isso, altere a senha da sua conta e o PIN da Carteira do site imediatamente por meio do aplicativo do site."
-        },
-        {
-            "id": 5,
-            "titulo": "[Segurança Da Conta] Como Evitar Golpes?",
-            "mensagem": "Você pode evitar cair em golpes que podem te induzir a fornecer informações pessoais, seguindo estas dicas:Baixe o aplicativo oficial No site Obtenha seu aplicativo do site por meio dessas plataformas oficiais. Dessa forma você poderá aproveitar as atualizações de segurança mais recentes. Android Play Store iOS App Store   Realize todas as transações dentro da plataforma do site Quando estiver comprando NO site, sempre certifique-se de manter todas as transações dentro do aplicativo do site ou em nosso site oficial: do site.com.br. Fique atento a qualquer pessoa que lhe peça para realizar pagamentos sem passar pela página de finalização da compra.   Fique atento a mensagens suspeitas Ortografia e gramática inadequadas, ou links que solicitam informações confidenciais, como sua senha ou one-time password (OTP), são sinais de mensagem fraudulenta.   Nunca compartilhe informações confidenciais da conta Informações da conta, como senhas, OTPs, links de redefinição de senha e até mesmo uma foto sua, podem ajudar os fraudadores a obter acesso à sua conta. NO site nunca pedirá informações confidenciais fora do aplicativo, portanto,  tenha cuidado com aqueles que solicitarem.   Mantenha boas práticas relacionadas à sua senha Altere a senha da sua conta e PIN da Carteira do site regularmente. Evite usar as mesmas senhas / PIN’s em plataformas diferentes.   Se você suspeita que recebeu uma mensagem fraudulenta, entre em contato imediatamente com nosso time de Atendimento ao Cliente No site com um print da mensagem."
-        },
-        {
-            "id": 6,
-            "titulo": "[Segurança Da Conta] Por Que Minha Tentativa De Login Falhou?",
-            "mensagem": "Os logins falhados devem-se a um dos seguintes motivos:  Limitações do Sistema Como parte dos esforços crescentes No site para tornar a experiência de compra segura e agradável para todos os nossos usuários, algumas limitações do sistema foram implementadas. Portanto, recomendamos que você desfrute dos serviços No site usando seu próprio dispositivo e conta para evitar interrupções na sua experiência NO site.  Suspensão Permanente Podemos suspender permanentemente os usuários que violaram as políticas No site. Esses usuários não poderão efetuar login por motivos de segurança. Você pode consultar o artigo 'Por que Minha Conta está sendo Limitada' para saber mais sobre as limitações da conta. Para mais detalhes sobre o que 'FAZER' e 'NÃO FAZER', consulte nossos Termos de Serviço ."
-        },
-        {
-            "id": 7,
-            "titulo": "[Segurança Da Conta] Por Que Minha Solicitação De Remoção De Conta Foi Rejeitada?",
-            "mensagem": "Rejeitaríamos sua solicitação para remover uma conta se: 1. Sua conta é limitada. Consulte o artigo Por que minha conta está sendo limitada? para entender melhor o motivo e como você pode apelar para sua conta. 2. Seu número de telefone foi usado muitas vezes para registrar contas No site. Entre em contato com nossos representantes de atendimento ao cliente e explique: - Por que esse número de telefone foi usado várias vezes para se registrar nas contas No site - O motivo por trás do seu pedido de remoção da sua conta atual - Se houver mais alguma coisa que podemos fazer para atender às suas necessidades, em vez de remover esta conta Observe que reservamos o direito de rejeitar o registro da conta com este número de telefone no futuro. 3. Sua conta possui pedidos incompletos. Certifique-se de concluir todos os seus pedidos, incluindo os que ainda estão em andamento ou em disputa, antes de solicitar a remoção da conta. Observe que, para vendedores e compradores, uma transação é considerada concluída apenas quando o dinheiro para essa transação for pago (por exemplo, um reembolso deve ser pago ao comprador para que a transação do pedido seja considerada completa para o comprador e vendedor). Para obter mais informações, consulte Como faço para remover minha conta No site?."
-        },
-        {
-            "id": 8,
-            "titulo": "[Segurança Da Conta] Posso Alterar Minha Senha?",
-            "mensagem": "Basta seguir as etapas abaixo para alterar sua senha. Vá para Configurações da Conta na sua página Eu. Clique em Meu perfil. Clique em 'Mudar senha' e siga as instruções para alterar sua senha."
-        },
-        {
-            "id": 9,
-            "titulo": "[Minha Conta] Como Adiciono / Edito Meu Endereço?",
-            "mensagem": "Você pode adicionar ou editar seu endereço acessando: Aba Eu> Configurações da conta> Meus endereços"
-        },
-        {
-            "id": 10,
-            "titulo": "[Minha Conta] Como Faço Para Remover Minha Conta neste site?",
-            "mensagem": "A remoção da conta é permanente e irreversível. Após a remoção bem-sucedida, você não poderá fazer login ou visualizar o histórico anterior da conta. O comprador reserva o direito de rejeitar suas futuras solicitações de criação de conta. Verifique se você concluiu todos os pedidos antes de enviar a solicitação. Depois de não ter compras ou vendas pendentes, você pode remover sua conta com algumas etapas. Para obter mais informações sobre por que sua solicitação de remoção de conta pode ser rejeitada, consulte o artigo 'Por que minha solicitação de remoção de conta foi rejeitada? ''.Abaixo estão as etapas para remover sua conta.1) Faça login no aplicativo móvel do site (a remoção da conta não está disponível no PC Mall e no Seller Center). Clique na aba 'Eu' e depois em 'Configuração da conta'.  2) Clique em 'Solicitar remoção da conta' na parte inferior da página. 3) Reconheça que a remoção da conta é irreversível. 4) Observe os seguintes detalhes importantes e clique em 'Continuar'. 5) Um código de verificação será enviado para o número de contato registrado na conta. Digite o código de verificação recebido e clique em 'Continuar'. 6) Diga-nos por que você está saindo. Valorizamos o seu feedback - ajude-nos a melhorar ainda mais a experiência do cliente. Concorde com os termos e condições para prosseguir. Enviar para confirmar. 7) A remoção da conta é instantânea e você será redirecionado para a página 'Comprar'."
-        },
-        {
-            "id": 11,
-            "titulo": "[Minha Conta] Como Altero O Idioma neste site?",
-            "mensagem": "Você pode alterar as configurações de idioma acessando: Aba Eu Configurações da conta Idiomas disponíveis no do site: Inglês Bahasa Malásia Chinês tradicional Chinês simplificado Tailandês Bahasa Indonésia Vietnamita"
-        },
-        {
-            "id": 12,
-            "titulo": "[Segurança Da Conta] Posso Me Registrar Novamente Depois De Remover Minha Conta?",
-            "mensagem": "Se sua conta for limitada, você não poderá se registrar usando o endereço de e-mail ou o número de telefone que você usou anteriormente. Sugerimos que você consulte o artigo Por que minha conta está sendo limitada  para apelo à conta? Se você solicitou a remoção da sua conta, poderá se registrar usando o mesmo endereço de e-mail ou número de telefone usado anteriormente. O do site reserva o direito de banir ou encerrar sua conta de usuário sem aviso prévio, a seu exclusivo critério."
-        },
-        {
-            "id": 13,
-            "titulo": "[Segurança Da Conta] Por Que Preciso Verificar Meu Número De Telefone?",
-            "mensagem": "A verificação do número de telefone é importante, pois o Comprador deseja garantir que todos os usuários sejam usuários reais. Os compradores só poderão iniciar um bate-papo com o vendedor ou fazer um pedido depois de atualizarem seu número de telefone com sucesso. O código de verificação será enviado ao seu número de telefone para registro e você só poderá comprar após a conclusão. Se você for um vendedor, você estará qualificado apenas para listar e publicar seus produtos em sua loja para os compradores comprarem depois de registrar seu número de telefone. No final do dia, queremos criar uma comunidade segura e positiva aqui no do site. Se você não conseguir verificar seu número de telefone devido a alterações recentes, consulte nosso artigo  Como altero meu número de telefone"
-        },
-        {
-            "id": 14,
-            "titulo": "[Comentários] Como Entrar Em Contato Com O Atendimento Ao Cliente neste site?",
-            "mensagem": "Você pode entrar em contato conosco AQUI. Por favor, digite o seu nome de usuário do do site e uma breve declaração sobre a sua consulta para nossa referência a fim de atendê-lo de uma maneira mais eficiente. Nosso atendimento via chat online funciona de segunda a sábado, das 6:00 as 22:00."
-        },
-        {
-            "id": 15,
-            "titulo": "[Minha Conta] Por Que Não Recebi Meu Código De Verificação?",
-            "mensagem": "Se você não recebeu seu código de verificação, verifique se está usando um número de telefone registrado na Brasil para poder baixar e usar o do site Brasil. Para verificar se você efetuou login na conta correta, clique em 'Eu'> 'Configurações da conta'> 'Meu perfil' para ver os detalhes da conta. 1) Clique em 'Eu'> Clique em 'Configurações da conta' Após digitar seu código de verificação, preencha seus dados para se registrar. Observe que, se você já usou 'Conecte-se ao Facebook' ou 'Inscreva-se com e-mail' antes, pode ter feito login em uma conta diferente criada com seu e-mail. Siga as etapas acima para registrar seu número de telefone clicando em 'Editar' e 'Telefone' em 'Configurações da conta'. Se isso mostrar que seu número de telefone foi registrado em outra conta, tente fazer login usando o seu número de telefone para recuperar o acesso à conta."
-        },
-        {
-            "id": 16,
-            "titulo": "[Noções Básicas Do Vendedor] Como Alterar Meus Dados Bancários",
-            "mensagem": "Como faço para alterar meus dados bancários?   Os dados bancários, cadastrados pelo vendedor, devem estar corretos e sempre atualizados para que suas vendas sejam recebidas sem atrasos.   Para alterar os seus dados bancários ou incluir novas contas para recebimento, basta seguir os passos abaixo:   Faça o login em sua conta e acesse a Central do Vendedor; Clique no item 'FINANÇAS' no canto esquerdo da página; Clique no item 'CONTAS BANCÁRIAS' e insira a sua senha do site para verificação; Antes de excluir a conta já cadastrada, adicione uma nova conta com dados corretos ou então adicione novamente a conta cadastrada, clicando em 'ADICIONAR NOVA CONTA BANCÁRIA'; Preencha seus dados e tenha atenção ao tipo de conta selecionada; Clique em 'SALVAR' e verifique se a nova conta está cadastrada e verificada; Selecione a nova conta e clique em 'DEFINIR COMO PADRÃO' e, em seguida, clique em 'SALVAR'; Você receberá um SMS no telefone cadastrado NO site para a validação da mudança; Na Central do Vendedor, clique novamente na conta antiga e depois em 'EXCLUIR' e depois em 'CONFIRME'.   Após realizar todos os passos a sua conta estará cadastrada, atualizada e pronta para receber todas as suas vendas!   Para mais informações, você também pode consultar Centro de Educação para Vendedor ."
-        },
-        {
-            "id": 17,
-            "titulo": "[Segurança Da Conta] O Que Devo Fazer Se Esquecer Minha Senha?",
-            "mensagem": "A fim de garantir a segurança da plataforma No site, podemos suspender contas que nosso sistema sinaliza automaticamente como tendo violado nossos Termos e Condições . Existem diferentes motivos para a limitação da conta e isso pode incluir, mas não se limitando à criação de pedido falso, abuso promocional, golpe, etc.   Como apelar Você pode entrar com um recurso para reativar sua conta novamente preenchendo o formulário aqui. Pode ser necessário fornecer os documentos mencionados abaixo:   Documento de identificação válida (por exemplo, passaporte, RG, carteira de estudante, carteira de trabalho) Comprovante de compra (por exemplo, fotos dos produtos comprados, pedido de envio, captura de tela do bate-papo com comprador/vendedor, etc.)"
-        },
-        {
-            "id": 20,
-            "titulo": "[Rastreamento De Pedidos] Como Faço Para Rastrear Minha Encomenda Do Exterior?",
-            "mensagem": "Para acompanhar seu pedido do exterior, vá para A Enviar ou A Receber na seção Minhas Compras na guia Eu no Aplicativo do site > Selecione o status de envio do seu pedido > Visualize todas as atualizações de envio.   Rastreamento de atualizações de envio de pedidos vindos do exterior no do site App Pode levar de 24 a 48 horas para que o status de rastreamento de um pedido seja atualizado por nossos parceiros logísticos. Quando a encomenda chegar ao Brasil, você receberá um código de rastreamento dos Correios."
-        },
-        {
-            "id": 21,
-            "titulo": "[Cancelamento Do Pedido] Posso Cancelar Meu Pedido?",
-            "mensagem": "Você pode cancelar seu pedido enviando uma solicitação de cancelamento. Para fazer isso, selecione Cancelar pedido na página Detalhes do pedido > Selecione o motivo de cancelamento> Confirme para envio da solicitação. Enviando solicitação de cancelamento de pedido no do site App   Os compradores podem enviar apenas uma solicitação de cancelamento para cada pedido. Se sua solicitação de cancelamento for rejeitada ou retirada, você não poderá enviar outra solicitação para o mesmo pedido.   O cancelamento funciona de maneira diferente para diferentes tipos de pedidos:   1. Pedidos locais pagos (sem encomenda) O cancelamento pode ser feito instantaneamente dentro de 1 hora após ter feito o pedido, antes do envio ser organizado pelo vendedor. Após a marca de 1 hora, você precisará da aprovação do vendedor para cancelar seu pedido. Você não poderá cancelar seu pedido uma vez que o envio tenha sido organizado.   2. Pedidos pagos (pré-encomenda) Você precisará da aprovação do vendedor para o cancelamento, independentemente de o envio ter sido organizado. Após o envio de sua solicitação, o vendedor deve responder em até 2 dias. Se não o fizer, o pedido será automaticamente cancelado pelo nosso sistema e você será reembolsado de acordo com o seu método de pagamento.   3. Pedidos pagos vindos do exterior (sem pré-encomenda) O cancelamento pode ser feito instantaneamente dentro de 1 hora após ter feito o pedido, antes do envio ser organizado pelo vendedor. Após a marca de 1 hora, você precisará da aprovação do vendedor para cancelar seu pedido. O cancelamento não será possível uma vez que o envio tenha sido organizado.   Verificando o status do pedido de cancelamento Para verificar o status da sua solicitação de cancelamento, selecione Exibir detalhes de cancelamento do pedido em Minhas compras.   Verificando o status da solicitação de cancelamento no do site App Se você não deseja mais cancelar o pedido, selecione Remover solicitação de cancelamento> Confirmar.    Retirando o status da solicitação de cancelamento no do site App ⚠️ Importante Os vendedores podem rejeitar solicitações de cancelamento de pedidos que foram embalados / organizados para envio. Se necessário, você pode conversar diretamente com o vendedor através do Chat ou fazer uma solicitação de devolução / reembolso após receber seu pedido. Os reembolsos serão processados automaticamente após o cancelamento bem-sucedido."
-        },
-        {
-            "id": 22,
-            "titulo": "[Pagamento] Quanto Tempo Tenho Para Fazer O Pagamento Do Meu Pedido Não Pago?",
-            "mensagem": "Após finalizar um pedido, você precisará realizar o pagamento dentro de um prazo específico para concluir seu pedido. Este limite de tempo depende do seu método de pagamento:   1. Para pedidos feitos via cartão de débito / crédito A verificação do pagamento pode levar até 24 horas para ser concluída após a finalização da compra.   2. Para pedidos feitos via cartão de débito virtual da Caixa A verificação do pagamento pode levar até 24 horas para ser concluída após a finalização da compra.   3. Para pedidos feitos via boleto bancário Você tem 1 dia útil para concluir o pagamento após a finalização da compra.    ⚠️ Importante Pedidos não pagos são considerados incompletos e não serão processados. Se eles não forem pagos dentro do limite de tempo especificado, eles serão automaticamente cancelados pela do site.   Você pode verificar a data de vencimento do pagamento do seu pedido de duas maneiras:   1. Por meio da página Pedido bem-sucedido, depois de fazer um pedido com sucesso.   Informações de pagamento após o pedido feito no do site App   2. Via A Pagar na aba Eu no App do site Em cada pedido não pago, haverá um lembrete que indica quando seu pagamento é devido e qual método de pagamento você deve utilizar."
-        },
-        {
-            "id": 23,
-            "titulo": "[Novo NO site] Como Posso Comprar Vários Produtos De Diferentes Vendedores No Mesmo Pedido?",
-            "mensagem": "Para comprar produtos de diferentes vendedores no mesmo pedido, basta adicionar os produtos ao seu carrinho por meio do botão Adicionar ao carrinho enquanto navega. Dessa forma, você poderá pagar por eles juntos durante a finalização da compra. Adicionando produto ao carrinho no aplicativo do site   Depois de adicionar os produtos desejados ao carrinho, para fazer seu pedido, selecione o ícone do carrinho de compras no App > Selecione os produtos para comprar na página Carrinho de compras > Continuar > Fazer pedido para confirmar sua compra.   Fazendo pedido de vários produtos no do site App"
-        },
-        {
-            "id": 24,
-            "titulo": "[Segurança Do Pedido] O Que É A Garantia do site?",
-            "mensagem": "A Garantia do site  é um recurso em que os pagamentos aos vendedores são retidos temporariamente e os pagamentos serão liberados quando os compradores confirmarem que os pedidos foram realizados e satisfatórios.   Este período é calculado com base nos Dias para Enviar (DTS) do vendedor e Tempo de Entrega Estimado, que começa a partir da data de confirmação do pagamento.   Aqui está um exemplo de como isso pode ser calculado:   3 (Dias para Envio¹) + 7 (Tempo Estimado de Entrega²) + 7 (Tempo de Confirmação do Comprador³) = 17 dias   ¹ Dias para envio - número de dias que o vendedor leva para se preparar para a entrega ² Tempo Estimado de Entrega - tempo médio de entrega por parceiro logístico ³ Tempo de Confirmação do Comprador - número de dias que o comprador leva para confirmar o recebimento após a entrega   Para pedidos que ainda não foram enviados Os vendedores precisam garantir que enviaram o pedido dentro do período de garantia do comprador, caso contrário, o pagamento será automaticamente reembolsado a você quando esse período terminar.   Você tem permissão para uma extensão única de 3 dias do período de Garantia do site se os vendedores ainda não tiverem despachado o item. Para fazer isso, selecione Estender Garantia do site na página Detalhes do pedido.    Extensão da garantia do comprador para pedido ainda não enviado no aplicativo do site   Para pedidos que já foram enviados Você precisará confirmar o recebimento do pedido ou solicitação de devolução / reembolso dentro do período de Garantia do site, caso contrário, o pagamento será automaticamente liberado para os vendedores quando esse período terminar.   Você tem permissão para uma extensão única de 7 dias do período de Garantia do site se ainda não tiver recebido um pedido que foi enviado.   Se você ainda não recebeu seu pedido antes do último dia do período de extensão, solicite um reembolso antes do término do período de extensão da Garantia do site de 7 dias."
-        },
-        {
-            "id": 25,
-            "titulo": "[Novo NO site] Quais Opções De Pagamento São Aceitas Pela do site?",
-            "mensagem": "A do site aceita um total de 3 opções de pagamento: Cartão de Crédito Boleto Bancário Cartão de Débito Virtual da Caixa   Cartão de Crédito Aceitamos quase todas as bandeiras NO site, desde que os cartões tenham sido emitidos nacionalmente.   Boleto Bancário É possível realizar o pagamento via boleto bancário, seja fisicamente ou via internet banking. Vale lembrar que pagamentos por boleto bancário podem demorar até 3 dias úteis para ser compensados após efetuar o pagamento.    Cartão de Débito Virtual da Caixa O usuário que possuir o cartão de débito virtual da Caixa poderá utilizá-lo em suas compras NO site, basta adicioná-lo acessando a área “Eu”, “Minha Conta”, depois em “Cartão de crédito” e clicar em “Adicionar um novo cartão de crédito”. Pix O Pix é o meio de pagamento do Banco Central pelo qual é possível fazer pagamentos e transferências 24 horas por dia, 7 dias por semana. Todas as transações Pix são criptografadas e autenticadas de acordo com as diretrizes do Banco Central. A opção Pix aparecerá após clicar em 'Opção de pagamento', selecione a opção 'Pix'. É possível pagar com Pix via 'Pix copia e cola' ou QR Code, ambos disponíveis no celular ou pelo internet banking"
-        },
-        {
-            "id": 26,
-            "titulo": "[Novo NO site] Posso Alterar Meu Método De Pagamento?",
-            "mensagem": "Você pode alterar o seu método de pagamento a qualquer momento antes que o pedido seja finalizado com sucesso NO site.   Os pagamentos que ainda não foram concluídos podem ser encontrados na página Minhas compras. Para alterar seu método de pagamento, vá para a guia Eu > A Pagar > selecione o pedido > Alterar método de pagamento > selecione o método de pagamento disponível. Alteração dos métodos de pagamento   ⚠️Importante Você deve fazer seu pagamento até a data indicada na página Minhas compras > A Pagar. Data de vencimento   Se o seu pedido não for encontrado na página A Pagar, isso significa que o seu pagamento foi processado com sucesso com o método selecionado anteriormente e não será mais possível alterá-lo"
-        },
-        {
-            "id": 27,
-            "titulo": "[Taxa De Envio] Como Verifico A Taxa De Envio Do Meu Pedido?",
-            "mensagem": "Você pode verificar as taxas estimadas de envio de produtos em seu pedido através da página Detalhes do produto ou durante a finalização do pedido.   Na página Detalhes do produto Selecione a seção de informações do frete para visualizar a taxa e tempo estimados para envio de acordo com as opções de envio disponíveis.   Visualização de taxas de envio e informações de entrega através da página de detalhes do produto no Aplicativo do site   Na página de Finalização do pedido A taxa de envio é mostrada na seção Opção de Envio para cada loja que você está comprando. As taxas totais de envio de um pedido serão mostradas no Subtotal do Frete.   Taxa de envio e subtotal para pedido na página de finalização do pedido no Aplicativo do site"
-        },
-        {
-            "id": 28,
-            "titulo": "[Cartão De Crédito / Débito] Como Excluo Os Detalhes Do Meu Cartão De Crédito / Débito?",
-            "mensagem": "Você pode excluir os detalhes do seu cartão de crédito/débito vinculados aos métodos de pagamento no app No site.   Vá para a seção Eu > selecione o ícone ⚙ > selecione Contas bancárias / cartões  > selecione o cartão que deseja excluir > Apagar > insira sua senha > Continuar   Excluindo detalhes do cartão de crédito/débito   ⚠️Importante Ao clicar em “Continuar”, os dados do cartão de crédito/débito serão imediatamente excluídos. Se você acidentalmente excluiu os detalhes do cartão, adicione-o novamente na mesma página."
-        },
-        {
-            "id": 29,
-            "titulo": "[Parcelamento] Como Faço Para Pagar Parcelado Com Cartão De Crédito?",
-            "mensagem": "Antes de pagar parcelado, você terá que adicionar um cartão de crédito como um método de pagamento em sua conta do site. No App do site, acesse a guia Eu > Configurações da Conta > Contas Bancárias / Cartões > Adicionar um novo Cartão de Crédito. Preencha os dados do seu cartão de crédito e clique em Enviar.   Adicionando cartão de crédito como método de pagamento Você será redirecionado para a página de confirmação. Preencha a Senha Única (OTP) enviada para o seu número de celular quando solicitado e clique em Enviar.   Ao escolher e finalizar a compra de um produto elegível, você pode selecionar o número de parcelas desejado > CONFIRMAR. Pagando parcelado no cartão de crédito na finalização do pedido   Após o pagamento bem-sucedido, você será redirecionado para a página A Enviar.   ⚠️Importante Pagamentos parcelados estão sujeitos aos termos e condições determinados pela do site assim como pelo banco/provedor de cartão de crédito."
-        },
-        {
-            "id": 30,
-            "titulo": "[Leve Mais Por Menos] Posso Usar Cupons E Moedas No site Para Pagar Produtos Em Leve Mais Por Menos?",
-            "mensagem": "Sim, você pode usar cupons e moedas do site para pagar por ofertas em Leve Mais por Menos. Pagando com cupons Para pagar as ofertas em Leve Mais por Menos utilizando cupons, aplique os cupons elegíveis durante a finalização de sua compra.   Reivindicando vouchers para compra em Leve Mais Por Menos   Se não for possível pagar por uma oferta Leve Mais por Menos utilizando cupons, aqui estão alguns possíveis motivos: Sua compra não atende aos critérios de uso do cupom. Veja o regulamento de cada cupom antes de utilizá-lo.  Todos os cupons já foram resgatados por outras pessoas. A validade do cupom expirou. Sua conta pode ter sido limitada.   Pagando com Moedas do site Para pagar as ofertas em Leve Mais por Menos utilizando Moedas do site, habilite o botão Resgatar Moedas do site durante a finalização de sua compra. Resgatando Moedas do site para compra em Leve Mais Por Menos Se não for possível pagar por uma oferta Leve Mais por Menos utilizando Moedas do site, aqui estão alguns possíveis motivos: Você atingiu o limite de uso de: um máximo de 30% do seu valor de compra um máximo de 1.000 moedas por dia Você ainda não selecionou um item para finalização da compra. Selecionando um item na finalização para resgatar Moedas do site"
-        },
-        {
-            "id": 31,
-            "titulo": "[Status Do Pagamento] Como Sei Se Meu Pagamento Foi Bem-Sucedido?",
-            "mensagem": "Se o seu pagamento foi processado com sucesso, você deve receber uma notificação via App No site.   Verificando notificações Vá para a guia Notificações > Atualizações de Pedidos e procure uma notificação intitulada Pagamento Confirmado.    Notificação de Pagamento Confirmado Para receber as notificações automaticamente, ajuste as Configurações de Notificação.   Você deve receber a notificação logo após o pagamento com métodos de pagamento automáticos. No entanto, observe que se você pagar via boleto bancário, a compensação pode levar até 3 dias úteis.  Se você não receber uma notificação após 24 horas indicando se seu pagamento foi bem sucedido, você pode entrar em contato com o Atendimento ao Cliente do site para obter informações."
-        },
-        {
-            "id": 32,
-            "titulo": "[Parcelamento] Posso Usar Cupons / Moedas do site Se Estiver Pagando Parcelado Com Cartão De Crédito?",
-            "mensagem": "Sim, você pode usar cupons ou Moedas do site e parcelar suas compras.   ⚠️Importante No entanto, os pedidos precisam ter valor total acima de R$20, depois de reduzidos os descontos dos cupons. Ou seja, reduzindo os descontos dos cupons, se o preço final for menor que R$20, a compra não poderá ser parcelada."
-        },
-        {
-            "id": 33,
-            "titulo": "[Frete Internacional] Quanto Tempo Levará Para Eu Receber Meu Pedido Vindo Do Exterior?",
-            "mensagem": "Você pode esperar receber sua encomenda vinda do exterior dentro de 30 a 50 dias. O cálculo de dias exclui os feriados, que diferem por Estado, e por dias não úteis do parceiro logístico.   Observe que a entrega de pedidos no exterior pode demorar mais devido às condições climáticas adversas, processos de desembaraço aduaneiro ou feriados. "
-        },
-        {
-            "id": 34,
-            "titulo": "[Cartão De Crédito] Quais Cartões De Crédito Posso Usar NO site?",
-            "mensagem": "Aceitamos quase todas as bandeiras NO site, desde que os cartões tenham sido emitidos nacionalmente.   Se você possui um cartão de crédito emitido internacionalmente, não será possível utilizá-lo.   Considere utilizar outro método de pagamento para finalizar o seu pedido se você não possui um cartão de crédito emitido nacionalmente."
-        },
-        {
-            "id": 35,
-            "titulo": "[Mudanças No Pedido] Por Que Meu Pedido Foi Dividido Pelo Vendedor?",
-            "mensagem": "Os pedidos às vezes podem ser divididos pelos vendedores devido a vários motivos, como por exemplo  pacotes grandes que excedem o limite de peso do pacote ou quando os produtos em um pedido são armazenados em vários depósitos.   Se o seu pedido for dividido pelo vendedor, você será notificado por meio do aplicativo do site. Seu pedido ainda aparecerá como um único pedido em Minhas compras, enquanto as atualizações de envio e os detalhes de parcelamento serão exibidos na página Detalhes do pedido.   Depois que um pedido for dividido, cada pacote dividido será enviado separadamente.   Cancelamento de pedidos divididos Os cancelamentos só podem ser feitos dependendo do status atual do pedido. Se você enviar uma solicitação de cancelamento, será para cancelar todo o pedido. Você não poderá fazer cancelamentos parciais. Os cancelamentos serão imediatos para pedidos para os quais os vendedores ainda não providenciaram o envio.   Devolução / Reembolso para pedidos divididos As solicitações de devolução / reembolso só podem ser feitas dependendo do nível em que está seu pedido. Observe que a solicitação só pode ser feita uma vez, mesmo que haja vários pacotes no mesmo pedido. Recomendamos que você aguarde a entrega de todos os pacotes divididos antes de fazer uma solicitação de devolução / reembolso, se necessário."
-        },
-        {
-            "id": 36,
-            "titulo": "FAQs Pagamento",
-            "mensagem": "Opções de Pagamento  [Novo NO site] Quais opções de pagamento são aceitos pela do site? [Status do pagamento] Como sei se meu pagamento foi bem-sucedido? [Configurações de pagamento] Por que não consigo adicionar minha opção de pagamento preferida? [Leve Mais Por Menos] Posso usar cupons e moedas No site para pagar produtos em Leve Mais Por Menos? [Noções básicas do comprador] Posso alterar meu modo de pagamento?   Cartão de crédito/débito [Cartão de crédito] Quais cartões de crédito posso usar NO site? [Cartão de crédito] Existem taxas se eu pagar com cartão de crédito? [Cartão de crédito / débito] Por que não consigo pagar com meu cartão de crédito / débito? [Cartão de crédito / débito] Como excluo os detalhes do meu cartão de crédito / débito? Parcelamento [Parcelamento] Como faço para pagar parcelado com cartão de crédito? [Parcelamento] Quais são as condições de parcelamento com cartão de crédito? [Parcelamento] Por que meu cartão de crédito não pode ser usado para pagamentos parcelados? [Parcelamento] Posso usar cupons / Moedas do site se estiver pagando parcelado com cartão de crédito?"
-        },
-        {
-            "id": 37,
-            "titulo": "[Proteção De Pedido] A do site Fornece Seguro Para Meu Pedido?",
-            "mensagem": "Infelizmente, este site não oferece seguro para seus pedidos, mas você pode contar com a Garantia do site para uma compra mais segura, além disso, caso não receba seu pedido, você pode solicitar um Reembolso."
-        },
-        {
-            "id": 38,
-            "titulo": "[Entrega] Posso Alterar A Opção De Envio Após O Envio Do Meu Pedido?",
-            "mensagem": "Infelizmente, você não pode alterar sua opção de envio uma vez que seu pedido tenha sido enviado pelo vendedor.   Se você precisar alterá-lo com urgência, entre em contato com o Atendimento ao Cliente do site para cancelar seu pedido atual e então realize uma nova compra."
-        },
-        {
-            "id": 39,
-            "titulo": "[Configurações De Pagamento] Por Que Não Consigo Adicionar Minha Opção De Pagamento Preferida?",
-            "mensagem": "Sua opção de pagamento preferencial, como cartão de crédito, pode ter sido rejeitada devido a: Cartão de Crédito inativo Envio incompleto/incorreto de informações   Cartão de crédito inativo Novos cartões de crédito precisam ser ativados antes de serem usados. Você pode confirmar com seu banco se seu cartão está ativo.   Envio incompleto/incorreto de informações Verifique o número do seu cartão e o nome do cartão ao adicionar uma opção de pagamento no Aplicativo do site.   Um formato errado do nome também será considerado como um envio incompleto/incorreto de informações. Por exemplo, o nome completo registrado no seu cartão de crédito é Sophia Shogi Tarsier. Os seguintes erros de preenchimento acarretarão em erro de preenchimento:   Nome incompleto -  Sophia Tarsier Ausência de espaços - SophiaShogiTarsier Erros de digitação - Sohpia Sogi Trasier Divergência de nome - Soh Pi Shogi Inclusão de números - Sophia Shogi Tarsier85   Se você ainda não conseguir adicionar seu cartão de crédito, entre em contato com o Atendimento ao Cliente do site."
-        },
-        {
-            "id": 41,
-            "titulo": "Como Posso Denunciar A Violação Dos Meus Direitos?",
-            "mensagem": "A do site leva a proteção da Propriedade Intelectual (PI) a sério e não tolera o uso de PI de maneira contrária à legislação aplicável.   Cada vendedor é responsável por garantir que seus produtos listados e seus conteúdos de anúncios, incluindo imagens de produtos e descrições não infringem direitos de propriedade intelectual detidos por qualquer outra parte. Alguns exemplos de violação são:   Infração à marcas registradas: O uso não autorizado de qualquer marca, nome comercial ou imagem comercial de terceiros, ou qualquer elemento muito semelhante a essa marca, nome comercial ou imagem comercial, em relação ao produto listado, à sua embalagem ou ao anúncio de produtos.     Violação de Direitos Autorais: O uso não autorizado de conteúdo protegido por direitos autorais, como imagens e descrições, em relação ao produto listado, à sua embalagem ou ao anúncio de produtos.   Violação de Desenho Industrial: O uso não autorizado de um desenho industrial, ou um desenho substancialmente semelhante ao desenho registado, em relação a um produto anunciado.   Violação de Patente: utilização não autorizada de uma invenção patenteada em relação ao produto anunciado.   “O uso não autorizado” refere-se ao uso de PI sem qualquer consentimento, licença ou autorização do respectivo proprietário da PI.   Caso queira enviar uma reclamação de violação, por favor preencha o formulário no link abaixo: Formulário de Violação de Propriedade Intelectual.    O site receberá cada Reclamação de PI (IPR) e trabalhará em colaboração com o proprietário da PI ou com seu agente autorizado para uma solução rápida da reclamação.   Note que, a fim de nos ajudar a proteger os seus direitos, é indispensável a apresentação de documentação de suporte suficiente e válida para provar a existência da propriedade dos direitos reivindicados na jurisdição em que o anúncio tenha sido veiculado e que os anúncios específicos reclamados constituem ou contêm uma violação do referido direito. Para mais detalhes, consulte a secção 8 do Termos de Serviço No site.    \t Natureza da Reclamação Documentos Necessários Marca Registrada Direitos Autorais Desenho Industrial Patente Carta de Autorização ou Procuração Sim, quando o Reclamante não for o titular da PI Sim, quando o Reclamante não for o titular da PI Sim, quando o Reclamante não for o titular da PI Sim, quando o Reclamante não for o titular da PI Certificado local de Registo da PI Sim Sim, se registrável no território Sim Sim Representação visual  e/ ou lista de preços em moeda local se a acusação é de violação de marca/produtos falsificados   A pedido No site   N/A   N/A   N/A Prova visual das imagens com direitos autorais / obras de arte que  têm sido utilizados   N/A   A pedido No site   N/A   N/A   Veja abaixo alguns exemplos de documentos necessários para que a do site possa avaliar sua reclamação:     "
-        },
-        {
-            "id": 42,
-            "titulo": "[Noções Básicas Do Vendedor] Como Começo A Vender No do site?",
-            "mensagem": "É ótimo tê-lo a bordo como vendedor! Antes de tudo, verifique se você concluiu o registro da conta com seu número de telefone, pois seus produtos não estarão visíveis para o comprador se o registro não for concluído com um número de telefone.   Pronto? Vamos seguir em como publicar seu primeiro produto no do site.   Abaixo estão as etapas para postar produtos do do site App:   1. Vá para a página 'Eu' e clique em 'Minha loja'. 2. Você precisará clicar em 'Adicionar novo produto'. 3. Escolha de onde você gostaria de adicionar o seu produto, faça o upload das fotos e edite as fotos do produto apropriadamente. Podem ser adicionadas até 9 fotos para cada postagem. 4. Preencha os detalhes do produto, como Categoria, Preço, Estoque, Variação, Peso, Taxa de Remessa e Dias para Envio. Não se esqueça de publicar seu produto para torná-lo visível para os compradores! Agora seu produto está listado no do site!   Abaixo estão as etapas para postar produtos do Central do Vendedor:   1) Clique em 'Meu Produto' 2) Clique em 'Adicionar novo produto' 3) Insira o nome do seu produto, nosso sistema irá sugerir a categoria mais relevante com base no nome do seu produto. 4) Insira os detalhes e a marca do seu produto. 5) Insira o preço e a quantidade disponível de estoque do seu produto. Você pode anexar até 9 fotos ao seu produto. 6) Por fim, insira o peso do produto, escolha qual serviço de correio você gostaria de usar para enviar este item, salve a postagem do produto e publique.   Veja 'Como recebo meu pagamento?' e 'Como atualizo o número de rastreamento para vários pedidos?' pode ser necessário seguir essas etapas logo após receber suas primeiras vendas.   Confira nosso Centro de Educação para Vendedor para obter mais dicas e truques para vender no do site. Você pode clicar nas subcategorias abaixo para ver todos os outros tópicos relacionados."
-        },
-        {
-            "id": 45,
-            "titulo": "[Rastreamento De Pedidos] Como Faço Para Verificar O Status Do Meu Pedido?",
-            "mensagem": "Você pode verificar o status de seus pedidos através de Minhas Compras na guia Eu no Aplicativo do site.   Todas as suas compras serão categorizadas de acordo com seus status de pedido: A Pagar - compreende todos os pedidos não pagos  A Enviar - compreende todos os pedidos pagos que não foram enviados por vendedores A Receber - compreende todos os pedidos que foram enviados Finalizado - compreende todos os pedidos que foram entregues  Cancelado - compreende todos os pedidos que foram cancelados Reembolso - compreende todos os pedidos que foram reembolsados   Verificando o status do pedido através de Minhas Compras no Aplicativo do site Rastreando o status de entrega dos pedidos Uma vez que seu pedido esteja sob o status A Enviar ou A Receber, você pode visualizar atualizações detalhadas de envio e acompanhar seu status de entrega.   Rastreamento de atualizações de envio do pedido no Aplicativo do site   ⚠️ Importante Os pedidos podem ser acompanhados em detalhe diretamente no Aplicativo do site."
-        },
-        {
-            "id": 46,
-            "titulo": "[Entrega] Por Que Não Consigo Selecionar Uma Opção De Envio Durante A Finalização Da Compra?",
-            "mensagem": "Se você visualizar as mensagens de erro 'Este produto não suporta a opção de envio selecionada' ou 'Nenhuma opção de envio disponível' durante a finalização do pedido, pode ser devido a um endereço de entrega incompleto ou inválido ou que a área de entrega está fora da área de cobertura.   ⚠️Importante Cada transportadora possui uma área de cobertura. Algumas opções de envio não estão disponíveis por estarem fora da área de cobertura da transportadora.   Mensagens de erro de opção de envio durante o checkout no App do site Para solucionar este problema, verifique se o endereço de entrega foi preenchido de forma correta e completa.   Selecione a seção Endereço de Entrega na página de finalização do pedido > clique em Editar > Selecione o endereço que deseja alterar > Edite as informações do endereço conforme necessário > clique em Enviar.  Edição do endereço de entrega durante a finalização no App do site"
-        },
-        {
-            "id": 47,
-            "titulo": "[FAQ] Sobre Os Serviços De Envio E Entrega No site",
-            "mensagem": "1. Como a do site calcula as taxas de envio? O site calcula as taxas de envio com base no peso do pacote e nas dimensões fornecidas pelo vendedor, bem como as taxas dos diferentes parceiros logísticos.   2. Os produtos de vendedores diferentes no mesmo pedido serão entregues pelo mesmo método de envio? Não, quando você compra de diferentes vendedores no mesmo pedido, o produto será entregue com base nas opções de envio oferecidas para cada vendedor e de acordo com a área de cobertura dos parceiros logísticos.   Por exemplo, se você comprar os itens A e B do Seller X e item C do Seller Y no mesmo pedido: Itens A e B serão enviados pelo parceiro logístico disponível na região do Vendedor X. Item C será enviado pelo parceiro logístico disponível na região do Vendedor Y.    Opções de envio para diferentes vendedores no mesmo pedido no do site App ⚠️ Importante As taxas de envio também serão cobradas separadamente para produtos de diferentes vendedores.   3. Posso mudar minhas opções de transporte?  Você pode alterar sua opção de envio somente durante a finalização do pedido e antes de efetuar o pagamento. Depois que o pedido for feito, você não poderá mais alterar sua opção de envio. Se você realmente deseja alterar sua opção de envio, você pode cancelar seu pedido e realizar uma nova compra.   4. Onde posso encontrar atualizações de envio para o meu pedido? Para exibir as atualizações de envio de seus pedidos, vá para A Enviar ou A Receber em Minhas Compras na seção Eu no App do site > Selecione o status de envio do seu pedido > Visualize todas as atualizações de envio.   Rastreando atualizações de envio de pedidos no Aplicativo do site   5. E se eu não estiver satisfeito com o serviço de entrega? Se você não estiver satisfeito com o serviço de entrega, você pode deixar uma classificação para o Serviço de Entrega quando você classificar o(s) seu(s) produto(s) depois de confirmar o recebimento do seu pedido.  Classificação do serviço de entrega de pedidos no App do site"
-        },
-        {
-            "id": 48,
-            "titulo": "[Entrega] Posso Agendar A Data E Hora De Entrega Do Meu Pedido?",
-            "mensagem": "Infelizmente, não podemos apoiar o agendamento de datas e horários específicos de entrega no momento.   Se possível, esteja disponível ou providencie que outra pessoa esteja presente em seu endereço de entrega em torno da data estimada de entrega. Você pode acompanhar as atualizações de envio do seu pedido através da aba A Receber na seção Eu do App do site > Verifique o status do envio para saber a data prevista para entrega.   Rastreamento do status de envio de pedidos no Aplicativo do site Se você não estiver disponível no momento da entrega: A transportadora tentará entregar novamente com base em suas políticas de re-entrega, normalmente serão 3 tentativas de entrega. No caso dos Correios, seu pacote pode ser mantido em uma agência mais próxima para você buscá-lo. Normalmente, o pacote permanecerá neste local por até 7 dias. Se não for recolhido até o final deste período, poderá ser devolvido ao vendedor."
-        },
-        {
-            "id": 49,
-            "titulo": "[Entrega] Posso Alterar Meu Endereço De Entrega Depois Que Meu Pedido For Feito?",
-            "mensagem": "Você pode alterar seu endereço depois de fazer um pedido somente se atender a todos os critérios: Você não fez o pagamento ou pagamento não foi confirmado. Você não solicitou uma mudança de endereço para o pedido antes. O endereço de entrega só pode ser alterado uma vez para cada pedido. Se você atender a todos os critérios acima, você pode proceder para alterar seu endereço de entrega.   Para isso, selecione A Enviar em Minhas Compras na seção Eu do Aplicativo do site > Selecione o pedido > Selecione ALTERAR ao lado do endereço de entrega > Selecione o endereço para o qual deseja alterar > Confirmar. Alterando o endereço de entrega para pedido no Aplicativo do site ⚠️ Importante Para alterar para um novo endereço que não está salvo em nosso sistema, você pode Adicionar um novo endereço na página Seleção de endereços. Adicionando novo endereço no Aplicativo do site   Se você ainda deseja mudar seu endereço mesmo que seu pedido já tenha sido enviado pelo vendedor, você terá que cancelar o seu pedido e efetuar uma nova compra. Para cancelar o pedido após ter sido enviado, você deve entrar em contato com nossa equipe de Atendimento ao Cliente via Chat no App ou e-mail."
-        },
-        {
-            "id": 50,
-            "titulo": "[Entrega] Por Que A do site Mudou A Opção De Envio Do Meu Pedido Durante A Finalização Da Compra?",
-            "mensagem": "A do site seleciona automaticamente a melhor opção de envio para você durante a finalização da compra, para que você possa receber seus pedidos o mais rápido possível.   Se você deseja alterar para a sua opção de envio preferida, vá para a Opção de Envio na página de finalização da compra no App do site > Selecione uma opção de envio preferencial com base nas opções fornecidas  > Confirme.   Selecionar opção de envio para pedido durante finalização do pedido no Aplicativo do site"
-        },
-        {
-            "id": 51,
-            "titulo": "[Parceiros Logísticos] Quais São As Opções De Envio Disponíveis NO site?",
-            "mensagem": "Entendendo as opções de envio disponíveis O site conta com operadores logísticos parceiros para fazer as entregas dos seus pedidos. Operadores Logísticos Parceiros incluem: Correios Total Express Sequoia Loggi Rede Sul   Quais são as vantagens de usar os Parceiros Logísticos?  tabela-do siteenvios.jfif Acompanhando as atualizações de envio de seus pedidos Para exibir as atualizações de envio de seus pedidos, vá para A Enviar ou A Receber em Minhas Compras através da seção Eu no App do site > Selecione o status de envio do seu pedido > Visualize todas as atualizações de envio: O número de rastreamento será compartilhado automaticamente uma vez que esteja disponível. Todos os detalhes do envio serão atualizados regularmente, desde a preparação do seu pacote, retirada pela transportadora, até a entrega. Selecionar opção de envio para pedido durante finalizaçã do pedido no Aplicativo do site   ⚠️ Importante Quando você compra produtos de diferentes vendedores em um mesmo pedido, as opções de envio variam de acordo com o que está disponível para cada vendedor."
-        },
-        {
-            "id": 52,
-            "titulo": "[Envio Do Exterior] Como Minha Encomenda Do Exterior Será Entregue Quando Chegar Ao Brasil?",
-            "mensagem": "Assim que sua encomenda chegar ao Brasil, ela será entregue pelos Correios.   Você será notificado via App do site com um número de rastreamento local, que você pode usar para acompanhar o envio de sua encomenda através do site dos Correios."
-        },
-        {
-            "id": 53,
-            "titulo": "[Taxa De Envio] Por Que A Taxa De Envio Real É Diferente Daquela Mostrada No Sistema No site?",
-            "mensagem": "Diferenças na taxa de frete podem ocorrer por dois motivos:   1. Diferença de Peso Durante o checkout, a taxa de envio estimada dos produtos é calculada com base no peso do produto fornecido pelo vendedor. Se houver uma discrepância entre o peso estimado e o peso real do pacote, o custo excedente será custeado pelo vendedor.   2. Registro impreciso no sistema No site Se as taxas de envio de parceiros logísticos forem registradas de forma imprecisa em nosso sistema, os vendedores podem entrar em contato com nossa equipe de Atendimento ao Cliente para enviar uma solicitação."
-        },
-        {
-            "id": 54,
-            "titulo": "[Rastreamento De Pedido] Como Entro Em Contato Com Os Parceiros Logísticos No site Para Rastrear Meu Pedido?",
-            "mensagem": "Recomendamos que acompanhe o status de seus pedidos diretamente no nosso App do site. Se desejar, você pode acompanhar o status do seu pedido diretamente com a transportadora nos seguintes sites de rastreamento:   Parceiro Logístico Site de Rastreamento Correios https://www2.correios.com.br/sistemas/rastreamento/ Total Express https://tracking.totalexpress.com.br/ Loggi https://www.loggi.com/rastreador/ Sequoia https://portalvesta.sequoialog.com.br/#/app2/rastreamento-consulta Rede Sul https://www.redesullog.com.br/   ⚠️ Nota Nossos parceiros logísticos do site farão 3 tentativas de entrega antes de devolver o pedido ao vendedor devido ao não recebimento."
-        },
-        {
-            "id": 55,
-            "titulo": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL",
-            "mensagem": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL 08/07/2021•FAQ Se você efetuou um pedido de vendedores internacionais, note que a legislação brasileira poderá efetuar a cobrança adicional de taxas de importação pelo sistema de fiscalização aduaneira. A taxa é cobrada pelo órgão de fiscalização e não é de responsabilidade do vendedor.    Esta taxa é de responsabilidade exclusiva do comprador e não é reembolsada pela do site.    Caso o comprador opte por não prosseguir com o pagamento, a encomenda deverá retornar ao país de origem, após autorização da Receita Federal, e o reembolso do pedido poderá ser solicitado a partir da identificação da devolução do objeto. O comprador deverá clicar no botão de “Pedido de Reembolso”, assim que ele ficar disponível.    Não há valor mínimo para esta taxa adicional cobrada pela Receita Federal, mas o órgão de fiscalização costuma selecionar encomendas aleatórias com montantes maiores do que 50 USD (50 dólares) declarados. Há casos de exceção em que valores menores poderão ser taxados.    Se você recebeu uma notificação ou um telegrama de cobrança, será necessário efetuar o pagamento adicional da taxa de importação diretamente no site dos Correios, para a liberação da sua encomenda. Utilize o código de rastreamento disponível em “Minhas compras” (código começando com “LB” ou “NX”) no nosso site ou aplicativo e consulte o status da sua importação aqui."
-        },
-        {
-            "id": 56,
-            "titulo": "Noções Básicas Do Comprador] Qual É O Tempo De Envio?",
-            "mensagem": "O Tempo de Envio é calculado como o momento desde que o pedido é pago até a empresa de entrega pega o produto do Vendedor com sucesso.    Os itens em Pré-Encomenda (7 ou mais dias para envio) são excluídos do cálculo do Tempo de Envio.   O comprador poderá verificar a velocidade do envio em mais detalhes abaixo no aplicativo do site e no site:  "
-        },
-        {
-            "id": 57,
-            "titulo": "[PRODUTOS NA AGÊNCIA DOS CORREIOS",
-            "mensagem": "Se você foi informado que sua encomenda está disponível para retirada em uma agência dos Correios, utilize o código de rastreamento disponível em “Minhas compras” no nosso site ou aplicativo e consulte o endereço de retirada aqui .   No status da entrega você encontrará o endereço da agência onde sua encomenda está te esperando."
-        },
-        {
-            "id": 59,
-            "titulo": "[Reembolso E Devolução] O Vendedor Pode Rejeitar Minha Solicitação De Cancelamento? Posso Enviar Outra Solicitação De Cancelamento?",
-            "mensagem":"Após solicitar o cancelamento da compra, o vendedor tem a possibilidade de recusar o cancelamento do cliente caso o produto já tenha sido postado na transportadora. Quando isso acontecer, o pedido voltará com o status “Pago” e terá o nome do Vendedor como “Operador”. O vendedor tem o direito de rejeitar sua solicitação de cancelamento se o pedido já tiver sido processado. Depois que o vendedor rejeitar sua solicitação de cancelamento, o pedido continuará sendo enviado normalmente. No entanto, se um comprador cancelar o pedido dentro de 1 hora após o pagamento ser efetuado, o cancelamento será instantâneo, o que não exigirá a aprovação do vendedor. Os pedidos que não foram pagos também podem ser cancelados. Esses pedidos podem ser cancelados sem a aprovação do vendedor. Depois que sua solicitação for rejeitada ou retirada, você não poderá enviar outra solicitação de cancelamento para o mesmo pedido."
-        },
-        {
-            "id": 60,
-            "titulo": "[Reembolso E Devolução] Como O Time De Suporte No site Ajuda A Solucionar Pedidos De Reembolso?",
-            "mensagem":"Ao receber uma solicitação de devolução e reembolso em que não houve pré-acordo entre comprador e vendedor, o time de Suporte No site entra em ação para investigar o caso e, com base nos pontos e provas apresentadas por ambas as partes, chegar a uma solução justa. Nosso time concluirá a investigação em até 5 (cinco) dias corridos. Por isso, pedimos que fique atento ao seu e-mail, pois manteremos você atualizado do caso por lá. Quando o caso for avaliado, nosso time informará o status para ambas as partes.  O pagamento será liberado para o comprador se o pedido de reembolso for aprovado; caso seja preciso devolver o item, o pagamento é liberado de acordo com sua modalidades, após o recebimento do item pelo vendedor. Boleto bancário - EBANX encaminha para o e-mail cadastrado um formulário em até 15 dias úteis para preenchimento, o reembolso para a conta ocorrerá em até 5 dias úteis após preenchimento do formulário. Cartão de Crédito - Reembolso em até 2 faturas subsequentes. Para entender melhor do que estamos falando quando mencionamos provas e evidências no processo de devolução/reembolso, consulte o artigo 'Quais arquivos podem ser úteis ao solicitar reembolso  '."
-        },
-        {
-            "id": 61,
-            "titulo": "[Reembolso E Devolução] Como O Time De Suporte No site Pode Te Ajudar Com Solicitações De Reembolso",
-            "mensagem":"A do site sugere que compradores e vendedores conversem pelo chat se houver algum problema com o pedido. É comum que, ao explicar o problema, vocês cheguem a um acordo de forma mais rápida, sem que o time de Suporte No site precise ajudar.   Se não houver resposta ou um acordo entre vocês, o time de Suporte No site estará à disposição para resolver o caso.   Como vendedor, você terá duas oportunidades para solicitar nossa ajuda: Quando a solicitação de Devolução/Reembolso é feita Você tem até 2 dias para responder à solicitação e pode discordar dela, caso seja algum problema que não poderia ter sido evitado por você, como atrasos logísticos, por exemplo. Quando o item devolvido não estiver nas condições em que foi enviado Nestes casos, você tem até 5 dias após a postagem do produto pelo comprador para abrir uma reclamação. O time de Suporte No site ajudará em alguns casos:  Decidindo se a solicitação de devolução/reembolso é ou não aplicável (pode ser que uma solicitação de não recebimento tenha sido aberta algumas horas antes do pedido chegar); Investigando qualquer insatisfação em relação ao item devolvido; Investigando possíveis problemas logísticos que possam ter causado descontentamento para ambas as partes. Idealmente, o time No site considera o contexto e todas as evidências fornecidas por ambas as partes para tomar a decisão mais justa tanto para o comprador como para o vendedor; por isso, se possível, registre a embalagem do item enviado, o próprio item e eventuais capturas de tela de acordos realizados pelas partes no chat. Caso queira entender um pouco melhor quais evidências podem ser utilizadas nesses casos, confira nosso artigo Como a do site resolve uma disputa?  e Quais arquivos podem ser úteis ao de solicitar reembolso?  ."
-        },
-        {
-            "id": 62,
-            "titulo": "[Solicitação De Reembolso] Quais Arquivos Podem Ser Úteis Ao Solicitar Reembolso?",
-            "mensagem":"1. Reembolso por não-recebimento Você pode abrir uma solicitação de reembolso por não recebimento se até a data informada no app você não tiver recebido o seu pedido. Nesse caso, não será preciso anexar nenhuma imagem ao abrir a solicitação de reembolso. Se o item estiver a caminho, nosso time irá sugerir que aguarde o recebimento para, então, reabrir a solicitação de devolução - isso facilita o processo de retorno do item. Caso o item esteja sem atualizações do nosso parceiro logístico por alguns dias (isso é, o rastreamento não é atualizado há mais de 14 dias), não se preocupe, você será reembolsado! Caso você tenha recebido o produto, mas não esteja satisfeito, abra uma solicitação de reembolso com o motivo correspondente até 7 dias após o recebimento. Não se esqueça de anexar evidências de sua solicitação, como fotos.  Explicamos um pouco mais sobre motivos que podem justificar seu pedido de reembolso abaixo.   2. Recebi um item errado, danificado, com defeito ou incompleto Lamentamos que esteja insatisfeito com o seu pedido, mas vamos orientá-lo sobre como proceder abaixo. Você tem até 7 dias após o recebimento do seu pedido para abrir uma solicitação de devolução via app do site. Fique atento pois algumas categorias não são retornáveis! (aqui). Observe também que a devolução de itens pessoais, como roupas íntimas, roupas de banho, roupas de cama e banho, maquiagem usada, produtos perecíveis, itens de mercearia, joias (brincos) e produtos para adultos é proibida. Para investigarmos corretamente a sua situação, costumamos solicitar algumas provas que vão nos dizer por que a sua experiência não foi satisfatória e como podemos melhorar!  Geralmente, pedimos que você anexe à sua solicitação de reembolso imagens que justifiquem o motivo do reembolso: Fotos do item recebido: Errado: item recebido de cor/tamanho diferentes Danificado: embalagem danificada, itens quebrados ou com danos (amassados, riscos) Com defeito: é comum que seja algum eletrônico, por isso, pedimos que você nos forneça alguma captura de tela com o dispositivo plugado que mostre qual é o problema Incompleto: imagem com todos os itens recebidos no pedido - caso esteja faltando alguma peça ou componente Histórico do chat ou qualquer outra evidência que nos mostre alguma negociação prévia com o vendedor (se houver)   Abaixo estão alguns exemplos de provas de pedidos danificados que podem nos ajudar a mapear o problema:   Embalagem do item recebido Material de embalagem utilizado Partes danificadas do item Abaixo estão alguns exemplos de provas de pedidos com itens errados que podem nos ajudar a mapear o problema:   Para item errado, você pode tirar uma foto do produto no seu App> Eu> Minha compra> Clique no nome do pedido> Clique no nome do item> Tire uma captura da tela do app. Tire uma foto do item recebido como comparação. Você também pode nos dar mais detalhes contando o que exatamente difere do que você pediu para facilitar a investigação pelo Time No site. Abaixo estão alguns exemplos de provas de pedido incompleto recebido que podem nos ajudar a mapear o problema:    Para item incompleto, pedimos que tire uma foto completa da embalagem recebida e seu conteúdo Uma imagem da nota fiscal pode nos ajudar a identificar o suposto peso da embalagem que você deveria ter recebido   Aqui NO site, o vendedor tem direito a discordar do pedido de reembolso. Não se preocupe! Isso não significa que você não receberá o seu reembolso se tiver direito a ele, nós apenas damos ao vendedor o direito de nos informar se o erro não foi culpa dele!   3. Mudança de ideia Conforme previsto no artigo 49 do Código de Defesa do Consumidor, você tem até 7 dias após o recebimento do seu pedido para abrir uma solicitação de devolução. Fique atento pois algumas categorias não são retornáveis! (aqui) Caso você tenha desistido ou se arrependido da compra dentro do prazo de 7 dias, você pode anexar imagens nos mostrando que o produto está em condições de ser devolvido ao vendedor para agilizar a sua solicitação.   Se você precisar retornar o item ao vendedor, consulte aqui  o passo-a-passo. Se você é comprador, sugerimos a leitura dos artigos 'O que é a garantia do site? Como isso me protege como comprador? ', “O que acontece se não receber meu pedido? Posso pedir reembolso? ”  e “Quando e como posso solicitar um reembolso/ devolução? ” para saber um pouco mais sobre as etapas da solicitação de reembolso."
-        },
-        {
-            "id": 63,
-            "titulo": "Instruções De Devolução Para Compradores",
-            "mensagem":"É necessário preencher o seguinte modelo de Declaração de Conteúdo para o processo de Logística Reversa do nosso parceiro logístico: https://www.correios.com.br/enviar/encomendas/arquivo/nacional/formulario-declaracao-de-conteudo-a5 "
-        },
-        {
-            "id": 64,
-            "titulo": "[Reembolso Da Devolução] Depois De Clicar Em 'Pedido Recebido' Ainda Posso Enviar A Solicitação De Devolução/Reembolso?",
-            "mensagem":"Aconselhamos todos os compradores a verificarem o pacote antes de clicarem em 'Pedido Recebido', pois o pagamento será liberado ao vendedor imediatamente após essa ação. Como o pagamento foi liberado, não poderemos processar nenhuma solicitação de reembolso ou devolução por itens faltantes, pedido não entregue ou por arrependimento. Em casos que o produto esteja defeituoso, com mal funcionamento ou seja divergente, estes poderão ser analisados mesmo se o comprador clicar em 'Pedido Recebido”.  O prazo para solicitar o reembolso, em ambos os casos, é de até 7 dias após o recebimento do produto, enquanto que para eletrônicos que apresentarem defeitos, o prazo é de até 30 dias. Reforçamos fortemente que analise e teste seu produto antes de clicar em 'Pedido Recebido' para não ter complicações com devolução e reembolso. Caso exija alguma reclamação de garantia do vendedor, recomendamos que você verifique com o vendedor via chat para processamento adicional. Saiba mais sobre Como solicitar um reembolso com a do site. Recomendamos que você consulte 'O que é a Garantia do site? Como isso me protege como comprador?', visto que este artigo explica em detalhes e pode te ajudar a se proteger melhor no caso de ter recebido um item insatisfatório."
-        },
-        {
-            "id": 65,
-            "titulo": "[Reembolso Da Devolução] Como Devolver Meu Item Errado / Danificado Depois Que A Solicitação De Devolução For Confirmada?",
-            "mensagem":"Depois que a solicitação de devolução for confirmada pelo vendedor ou pela equipe de Disputa No site: Para pedidos locais Embale todos os itens (incluindo brindes, acessórios e embalagem) com proteção adequada e envie-os de volta ao vendedor dentro de 5 dias corridos a partir da data em que sua solicitação de devolução foi aprovada. Não é necessário colocar uma etiqueta com o endereço no pacote - uma etiqueta será disponibilizada na Agência dos Correios. 1.    Vá para a página de Detalhes de Devolução/Reembolso e clique no botão “Selecionar Entregador”.     2. Selecione a Opção de Envio e confirme.       3.    Veja seu Código de Devolução (apenas se você selecionou a Logística Reversa Correios). Este código deverá ser informado na Agência dos Correios.       Para pedidos do exterior Nossa equipe de disputa No site entrará em contato com você para informar o endereço de retorno. Certifique-se de enviar os itens a serem devolvidos em 5 dias corridos. Caso contrário, sua solicitação de devolução será automaticamente cancelada e o dinheiro será liberado para o vendedor.     Confira também os artigos Quando e como posso solicitar um reembolso de devolução? e Como a do site resolve uma disputa?  para saber o que pode acontecer depois disso. Tem outras dúvidas? Você pode clicar nas subcategorias abaixo para ver todos os outros tópicos relacionados. Você também pode entrar em contato conosco clicando no botão de e-mail abaixo."
-        },
-        {
-            "id": 66,
-            "titulo": "[Reembolso Da Devolução] Se Meu Pedido Contiver Mais De Um Item, Mas Apenas Um Estiver Danificado, Posso Aceitar O Restante Dos Itens E Rejeitar O Único Item Danificado?",
-            "mensagem":"Se você comprou várias unidades do mesmo item, precisará receber ou rejeitar todos os mesmos itens enquanto solicita o reembolso. Sugerimos que você clique no pedido de reembolso de todos os itens e forneça documentos relevantes para o processo de reivindicação de itens danificados. Se você comprou itens diferentes, pode optar por devolver o produto específico que está danificado apenas quando solicitar reembolso. No entanto, se você comprou várias unidades de um item, mas apenas uma unidade está danificada, será necessário solicitar o reembolso de todo o item. Por exemplo, o pedido é feito para a compra de 1 unidade de Milo 2kg soft pack e 2 unidades de Nescafé 3in1 Original. Se um dos Nescafé for sendo danificado durante o transporte, você precisará solicitar o reembolso de 2 unidades em vez de uma devido a limitações do sistema. Uma amostra dos documentos necessários para esse tipo de reivindicação é mostrado no artigo 'Quais são os documentos de suporte necessários para um caso de solicitação de reembolso? '. Se você teve dificuldades em solicitar reembolso, consulte 'Quando e como posso solicitar um reembolso de devolução? '."
-        },
-        {
-            "id": 67,
-            "titulo": "[Reembolso Da Devolução] O Que Eu Faço Quando O Produto É Perdido Ou Danificado?",
-            "mensagem":"Situação 1 : O comprador solicita um reembolso porque não recebeu o produto, mas você enviou o produto.   Prazo de postagem 1) Se o vendedor enviou o produto dentro do prazo de postagem mas o produto não chegou no prazo de entrega estimado, a do site reembolsa o comprador e não descontará do vendedor. 2) Se o vendedor não enviou o produto dentro de prazo de postagem, causando com que o produto não chegue dentro do prazo de entrega estimado, a do site reembolsa o comprador e descontará do vendedor.   Produto perdido Se a transportadora marcou o item como “Perdido”, a do site reembolsa o comprador e não descontará do vendedor.   Situação 2 : O comprador solicita uma devolução porque recebeu um produto danificado, mas você enviou o pedido com a proteção adequada.   Comprador  1) O comprador deve fornecer prova (ex: foto ou vídeo) do produto danificado recebido dentro de 3 dias.  2) O vendedor deve fornecer prova de postagem com proteção adequada. 3) Se o comprador não enviar a prova, o pagamento será liberado para vendedor. 4) Se a prova do comprador for inconclusiva, o pagamento será liberado para vendedor. 5) Se a prova do comprador for conclusiva, mas o pedido foi enviado com proteção adequada: A do site irá ressarcir o comprador e compensar você.  "
-        },
-        {
-            "id": 68,
-            "titulo": "[Reembolso Da Devolução] Quem Paga A Taxa De Envio Para Devolver A Encomenda Ao Vendedor?",
-            "mensagem":"Este site arcará com a taxa do processo de devolução de itens do comprador ao vendedor. Todavia, caso seja evidenciado envio de produto errado ou produto com defeito, o vendedor deverá arcar com a taxa de devolução. No entanto, quando o vendedor estiver disputando a parte responsável pela taxa de devolução, o site, a seu exclusivo critério, determinará a parte responsável pela taxa de devolução. Este artigo 'Como o site resolve uma disputa? ' ajudará você a entender melhor o processo de um caso de disputa. Também é benéfico para você saber sobre 'Quais são os documentos de suporte necessários para um caso de solicitação de reembolso ', pois a equipe de disputa do site julgará cada caso com base na prova fornecida pelo comprador e pelo vendedor antes de concluir o caso."
-        }
-    ]
+  "categorias": [
+      {
+          "id": 1,
+          "nome": "Segurança de Conta e Outros",
+          "artigos": [
+              {
+                  "id": 2,
+                  "nome": "[Segurança Do Produto] É Seguro Comprar Medicamentos / Suplementos De Saúde neste site?"
+              },
+              {
+                  "id": 3,
+                  "nome": "[Segurança Do Produto] Como Confirmar Se Um Produto É Autêntico?"
+              },
+              {
+                  "id": 4,
+                  "nome": "[Segurança Da Conta] Como Faço Para Detectar Um Golpe?"
+              },
+              {
+                  "id": 5,
+                  "nome": "[Segurança Da Conta] Como Evitar Golpes?"
+              },
+              {
+                  "id": 6,
+                  "nome": "[Segurança Da Conta] Por Que Minha Tentativa De Login Falhou?"
+              },
+              {
+                  "id": 7,
+                  "nome": "[Segurança Da Conta] Por Que Minha Solicitação De Remoção De Conta Foi Rejeitada?"
+              },
+              {
+                  "id": 8,
+                  "nome": "[Segurança Da Conta] Posso Alterar Minha Senha?"
+              },
+              {
+                  "id": 9,
+                  "nome": "[Minha Conta] Como Adiciono / Edito Meu Endereço?"
+              },
+              {
+                  "id": 10,
+                  "nome": "[Minha Conta] Como Faço Para Remover Minha Conta neste site?"
+              },
+              {
+                  "id": 11,
+                  "nome": "[Minha Conta] Como Altero O Idioma neste site?"
+              },
+              {
+                  "id": 12,
+                  "nome": "[Segurança Da Conta] Posso Me Registrar Novamente Depois De Remover Minha Conta?"
+              },
+              {
+                  "id": 13,
+                  "nome": "[Segurança Da Conta] Por Que Preciso Verificar Meu Número De Telefone?"
+              },
+              {
+                  "id": 14,
+                  "nome": "[Comentários] Como Entrar Em Contato Com O Atendimento Ao Cliente neste site?"
+              },
+              {
+                  "id": 15,
+                  "nome": "[Minha Conta] Por Que Não Recebi Meu Código De Verificação?"
+              },
+              {
+                  "id": 16,
+                  "nome": "[Noções Básicas Do Vendedor] Como Alterar Meus Dados Bancários"
+              },
+              {
+                  "id": 17,
+                  "nome": "[Segurança Da Conta] O Que Devo Fazer Se Esquecer Minha Senha?"
+              }
+          ]
+      },
+      {
+          "id": 19,
+          "nome": "Pedidos e Pagamentos",
+          "artigos": [
+              {
+                  "id": 20,
+                  "nome": "[Rastreamento De Pedidos] Como Faço Para Rastrear Minha Encomenda Do Exterior?"
+              },
+              {
+                  "id": 21,
+                  "nome": "[Cancelamento Do Pedido] Posso Cancelar Meu Pedido?"
+              },
+              {
+                  "id": 22,
+                  "nome": "[Pagamento] Quanto Tempo Tenho Para Fazer O Pagamento Do Meu Pedido Não Pago?"
+              },
+              {
+                  "id": 23,
+                  "nome": "[Novo No Site] Como Posso Comprar Vários Produtos De Diferentes Vendedores No Mesmo Pedido?"
+              },
+              {
+                  "id": 24,
+                  "nome": "[Segurança Do Pedido] O Que É A Garantia do site?"
+              },
+              {
+                  "id": 25,
+                  "nome": "[Novo No site] Quais Opções De Pagamento São Aceitas Pelo site?"
+              },
+              {
+                  "id": 26,
+                  "nome": "[Novo No site] Posso Alterar Meu Método De Pagamento?"
+              },
+              {
+                  "id": 27,
+                  "nome": "[Taxa De Envio] Como Verifico A Taxa De Envio Do Meu Pedido?"
+              },
+              {
+                  "id": 28,
+                  "nome": "[Cartão De Crédito / Débito] Como Excluo Os Detalhes Do Meu Cartão De Crédito / Débito?"
+              },
+              {
+                  "id": 29,
+                  "nome": "[Parcelamento] Como Faço Para Pagar Parcelado Com Cartão De Crédito?"
+              },
+              {
+                  "id": 30,
+                  "nome": "[Leve Mais Por Menos] Posso Usar Cupons E Moedas Do site Para Pagar Produtos Em Leve Mais Por Menos?"
+              },
+              {
+                  "id": 31,
+                  "nome": "[Status Do Pagamento] Como Sei Se Meu Pagamento Foi Bem-Sucedido?"
+              },
+              {
+                  "id": 32,
+                  "nome": "[Parcelamento] Posso Usar Cupons / Moedas do site Se Estiver Pagando Parcelado Com Cartão De Crédito?"
+              },
+              {
+                  "id": 33,
+                  "nome": "[Frete Internacional] Quanto Tempo Levará Para Eu Receber Meu Pedido Vindo Do Exterior?"
+              },
+              {
+                  "id": 34,
+                  "nome": "[Cartão De Crédito] Quais Cartões De Crédito Posso Usar No site?"
+              },
+              {
+                  "id": 35,
+                  "nome": "[Mudanças No Pedido] Por Que Meu Pedido Foi Dividido Pelo Vendedor?"
+              },
+              {
+                  "id": 36,
+                  "nome": "FAQs Pagamento"
+              },
+              {
+                  "id": 37,
+                  "nome": "[Proteção De Pedido] O Site Fornece Seguro Para Meu Pedido?"
+              },
+              {
+                  "id": 38,
+                  "nome": "[Entrega] Posso Alterar A Opção De Envio Após O Envio Do Meu Pedido?"
+              },
+              {
+                  "id": 39,
+                  "nome": "[Configurações De Pagamento] Por Que Não Consigo Adicionar Minha Opção De Pagamento Preferida?"
+              }
+          ]
+      },
+      {
+          "id": 40,
+          "nome": "Venda e Faturamento",
+          "artigos": [
+              {
+                  "id": 41,
+                  "nome": "Como Posso Denunciar A Violação Dos Meus Direitos?"
+              },
+              {
+                  "id": 42,
+                  "nome": "[Noções Básicas Do Vendedor] Como Começo A Vender No Site?"
+              }
+          ]
+      },
+      {
+          "id": 44,
+          "nome": "Envio e Entrega",
+          "artigos": [
+              {
+                  "id": 45,
+                  "nome": "[Rastreamento De Pedidos] Como Faço Para Verificar O Status Do Meu Pedido?"
+              },
+              {
+                  "id": 46,
+                  "nome": "[Entrega] Por Que Não Consigo Selecionar Uma Opção De Envio Durante A Finalização Da Compra?"
+              },
+              {
+                  "id": 47,
+                  "nome": "[FAQ] Sobre Os Serviços De Envio E Entrega No site"
+              },
+              {
+                  "id": 48,
+                  "nome": "[Entrega] Posso Agendar A Data E Hora De Entrega Do Meu Pedido?"
+              },
+              {
+                  "id": 49,
+                  "nome": "[Entrega] Posso Alterar Meu Endereço De Entrega Depois Que Meu Pedido For Feito?"
+              },
+              {
+                  "id": 50,
+                  "nome": "[Entrega] Por Que O site Mudou A Opção De Envio Do Meu Pedido Durante A Finalização Da Compra?"
+              },
+              {
+                  "id": 51,
+                  "nome": "[Parceiros Logísticos] Quais São As Opções De Envio Disponíveis NO site?"
+              },
+              {
+                  "id": 52,
+                  "nome": "[Envio Do Exterior] Como Minha Encomenda Do Exterior Será Entregue Quando Chegar Ao Brasil?"
+              },
+              {
+                  "id": 53,
+                  "nome": "[Taxa De Envio] Por Que A Taxa De Envio Real É Diferente Daquela Mostrada No Sistema No site?"
+              },
+              {
+                  "id": 54,
+                  "nome": "[Rastreamento De Pedido] Como Entro Em Contato Com Os Parceiros Logísticos No site Para Rastrear Meu Pedido?"
+              },
+              {
+                  "id": 55,
+                  "nome": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL"
+              },
+              {
+                  "id": 56,
+                  "nome": "Noções Básicas Do Comprador] Qual É O Tempo De Envio?"
+              },
+              {
+                  "id": 57,
+                  "nome": "[PRODUTOS NA AGÊNCIA DOS CORREIOS"
+              }
+          ]
+      },
+      {
+          "id": 58,
+          "nome": "Devoluções e Reembolsos",
+          "artigos": [
+              {
+                  "id": 59,
+                  "nome": "[Reembolso E Devolução] O Vendedor Pode Rejeitar Minha Solicitação De Cancelamento? Posso Enviar Outra Solicitação De Cancelamento?"
+              },
+              {
+                  "id": 60,
+                  "nome": "[Reembolso E Devolução] Como O Time De Suporte No site Ajuda A Solucionar Pedidos De Reembolso?"
+              },
+              {
+                  "id": 61,
+                  "nome": "[Reembolso E Devolução] Como O Time De Suporte No site Pode Te Ajudar Com Solicitações De Reembolso"
+              },
+              {
+                  "id": 62,
+                  "nome": "[Solicitação De Reembolso] Quais Arquivos Podem Ser Úteis Ao Solicitar Reembolso?"
+              },
+              {
+                  "id": 63,
+                  "nome": "Instruções De Devolução Para Compradores"
+              },
+              {
+                  "id": 64,
+                  "nome": "[Reembolso Da Devolução] Depois De Clicar Em 'Pedido Recebido' Ainda Posso Enviar A Solicitação De Devolução/Reembolso?"
+              },
+              {
+                  "id": 65,
+                  "nome": "[Reembolso Da Devolução] Como Devolver Meu Item Errado / Danificado Depois Que A Solicitação De Devolução For Confirmada?"
+              },
+              {
+                  "id": 66,
+                  "nome": "[Reembolso Da Devolução] Se Meu Pedido Contiver Mais De Um Item, Mas Apenas Um Estiver Danificado, Posso Aceitar O Restante Dos Itens E Rejeitar O Único Item Danificado?"
+              },
+              {
+                  "id": 67,
+                  "nome": "[Reembolso Da Devolução] O Que Eu Faço Quando O Produto É Perdido Ou Danificado?"
+              },
+              {
+                  "id": 68,
+                  "nome": "[Reembolso Da Devolução] Quem Paga A Taxa De Envio Para Devolver A Encomenda Ao Vendedor?"
+              }
+          ]
+      }
+  ],
+  "artigos": [
+      {
+          "id": 2,
+          "nome": "[Segurança Do Produto] É Seguro Comprar Medicamentos / Suplementos De Saúde neste site?",
+          "mensagem": "É seguro se o medicamento / suplemento de saúde se enquadrar nas categorias permitidas para venda. O site permite a venda de medicamentos sem receita e suplementos de saúde que sejam autorizados pela ANVISA .    Você deve ter cuidado e evitar comprar estes tipos de medicamentos: Medicamentos prescritos Medicamentos regulamentados (sem uma licença de venda online) Suplementos de saúde com alegações enganosas, ou falsas Drogas ilícitas cuja fabricação, venda ou uso são ilegais.   Aqui estão algumas dicas para entender se é seguro comprar o medicamento / suplemento de saúde NO site:   Embalagem completa e sem alterações Com base na imagem do produto, identificar se o conteúdo do medicamento / suplemento está bem selado, sem sinais de adulteração. O texto e as cores do medicamento / suplemento são nítidos, sem sinal de adulteração e correspondem às imagens do fabricante oficial. Certifique-se de que não haja erros ortográficos ou gramaticais na impressão da embalagem. Data de validade impressa de forma clara na descrição do produto Você deve encontrar uma data de validade na imagem do produto ou na descrição do produto. Licença registrada Verifique se o vendedor disponibilizou uma licença oficial Detalhes verificáveis Verifique o endereço do fabricante Se houver um QR code disponível, verifique se ele leva ao site oficial do fabricante.   Para ter ainda mais certeza, verifique os registros da ANVISA  para produtos e serviços de saúde. Se você encontrar qualquer produto que suspeite ser falso ou ilegal sendo vendido NO site, você pode denunciar esse produto na página do produto, por meio do aplicativo do site."
+      },
+      {
+          "id": 3,
+          "nome": "[Segurança Do Produto] Como Confirmar Se Um Produto É Autêntico?",
+          "mensagem": "Para confirmar se um produto é autêntico, você pode verificar se ele está classificado como vendedor Oficial. Produtos de vendedores do site Oficial devem ter a garantia de ser 100% autêntico, já que vendedores do site Oficial são verificados e possuem a liberação para venda desses produtos.    Procure a etiqueta de Oficial para determinar se um produto é de um vendedor autorizado.Se o produto não for vendido por um vendedor do site Oficial, você pode: Verificar as avaliações do produto para ver as opiniões de compradores anteriores Verificar na descrição do produto se menciona que o vendedor é um distribuidor autorizado do produto   Embora produtos falsificados ou produtos que tenham infringido os direitos de propriedade intelectual (IP) de terceiros sejam proibidos NO site, podemos não tê-los identificado durante nossas verificações pontuais. Você pode reportar este produto, através do aplicativo do site. Desta forma, realizaremos as análises necessárias para inativação do anúncio."
+      },
+      {
+          "id": 4,
+          "nome": "[Segurança Da Conta] Como Faço Para Detectar Um Golpe?",
+          "mensagem": "Detectando golpes. Golpes geralmente são identificados por Links não oficiais que solicitam dados sensíveis da conta, por exemplo, one-time passwords (OTPs) ou senhas da conta Erros ortográficos e de gramática Aqui estão algumas situações comuns que alguns golpistas que tentam se passar por funcionários no site utilizam ao entrar em contato: Afirmam que você ganhou prêmios Eles podem, ainda, solicitar que você execute um dos seguintes procedimentos: Compartilhe seu OTP (código de verificação) / senha da conta / número PIN da carteira site Compartilhe seus dados pessoais, como sua data de nascimento, que são dados que os agentes de atendimento ao cliente normalmente utilizam para confirmar a identidade de um comprador Efetue o pagamento via transferência fora do Aplicativo do site para um número fornecido por eles Você deve sempre ignorar ou relatar esses casos, pois a do site nunca solicitará esses detalhes por meio de plataformas não oficiais. Além disso, a do site nunca pedirá suas senhas e números PIN. NO site entrará em contato com você apenas por meio de canais oficiais, como o App do site, contas verificadas de mídia social ou endereços de e-mail que terminam com do site.com.    Denunciando golpes Se você enviou qualquer informação pessoal ou da conta a terceiros suspeitos, você deve informar imediatamente ao Time de Atendimento ao Cliente No site. Enquanto isso, altere a senha da sua conta e o PIN da Carteira do site imediatamente por meio do aplicativo do site."
+      },
+      {
+          "id": 5,
+          "nome": "[Segurança Da Conta] Como Evitar Golpes?",
+          "mensagem": "Você pode evitar cair em golpes que podem te induzir a fornecer informações pessoais, seguindo estas dicas:Baixe o aplicativo oficial No site Obtenha seu aplicativo do site por meio dessas plataformas oficiais. Dessa forma você poderá aproveitar as atualizações de segurança mais recentes. Android Play Store iOS App Store   Realize todas as transações dentro da plataforma do site Quando estiver comprando NO site, sempre certifique-se de manter todas as transações dentro do aplicativo do site ou em nosso site oficial: do site.com.br. Fique atento a qualquer pessoa que lhe peça para realizar pagamentos sem passar pela página de finalização da compra.   Fique atento a mensagens suspeitas Ortografia e gramática inadequadas, ou links que solicitam informações confidenciais, como sua senha ou one-time password (OTP), são sinais de mensagem fraudulenta.   Nunca compartilhe informações confidenciais da conta Informações da conta, como senhas, OTPs, links de redefinição de senha e até mesmo uma foto sua, podem ajudar os fraudadores a obter acesso à sua conta. NO site nunca pedirá informações confidenciais fora do aplicativo, portanto,  tenha cuidado com aqueles que solicitarem.   Mantenha boas práticas relacionadas à sua senha Altere a senha da sua conta e PIN da Carteira do site regularmente. Evite usar as mesmas senhas / PIN’s em plataformas diferentes.   Se você suspeita que recebeu uma mensagem fraudulenta, entre em contato imediatamente com nosso time de Atendimento ao Cliente No site com um print da mensagem."
+      },
+      {
+          "id": 6,
+          "nome": "[Segurança Da Conta] Por Que Minha Tentativa De Login Falhou?",
+          "mensagem": "Os logins falhados devem-se a um dos seguintes motivos:  Limitações do Sistema Como parte dos esforços crescentes No site para tornar a experiência de compra segura e agradável para todos os nossos usuários, algumas limitações do sistema foram implementadas. Portanto, recomendamos que você desfrute dos serviços No site usando seu próprio dispositivo e conta para evitar interrupções na sua experiência NO site.  Suspensão Permanente Podemos suspender permanentemente os usuários que violaram as políticas No site. Esses usuários não poderão efetuar login por motivos de segurança. Você pode consultar o artigo 'Por que Minha Conta está sendo Limitada' para saber mais sobre as limitações da conta. Para mais detalhes sobre o que 'FAZER' e 'NÃO FAZER', consulte nossos Termos de Serviço ."
+      },
+      {
+          "id": 7,
+          "nome": "[Segurança Da Conta] Por Que Minha Solicitação De Remoção De Conta Foi Rejeitada?",
+          "mensagem": "Rejeitaríamos sua solicitação para remover uma conta se: 1. Sua conta é limitada. Consulte o artigo Por que minha conta está sendo limitada? para entender melhor o motivo e como você pode apelar para sua conta. 2. Seu número de telefone foi usado muitas vezes para registrar contas No site. Entre em contato com nossos representantes de atendimento ao cliente e explique: - Por que esse número de telefone foi usado várias vezes para se registrar nas contas No site - O motivo por trás do seu pedido de remoção da sua conta atual - Se houver mais alguma coisa que podemos fazer para atender às suas necessidades, em vez de remover esta conta Observe que reservamos o direito de rejeitar o registro da conta com este número de telefone no futuro. 3. Sua conta possui pedidos incompletos. Certifique-se de concluir todos os seus pedidos, incluindo os que ainda estão em andamento ou em disputa, antes de solicitar a remoção da conta. Observe que, para vendedores e compradores, uma transação é considerada concluída apenas quando o dinheiro para essa transação for pago (por exemplo, um reembolso deve ser pago ao comprador para que a transação do pedido seja considerada completa para o comprador e vendedor). Para obter mais informações, consulte Como faço para remover minha conta No site?."
+      },
+      {
+          "id": 8,
+          "nome": "[Segurança Da Conta] Posso Alterar Minha Senha?",
+          "mensagem": "Basta seguir as etapas abaixo para alterar sua senha. Vá para Configurações da Conta na sua página Eu. Clique em Meu perfil. Clique em 'Mudar senha' e siga as instruções para alterar sua senha."
+      },
+      {
+          "id": 9,
+          "nome": "[Minha Conta] Como Adiciono / Edito Meu Endereço?",
+          "mensagem": "Você pode adicionar ou editar seu endereço acessando: Aba Eu> Configurações da conta> Meus endereços"
+      },
+      {
+          "id": 10,
+          "nome": "[Minha Conta] Como Faço Para Remover Minha Conta neste site?",
+          "mensagem": "A remoção da conta é permanente e irreversível. Após a remoção bem-sucedida, você não poderá fazer login ou visualizar o histórico anterior da conta. O comprador reserva o direito de rejeitar suas futuras solicitações de criação de conta. Verifique se você concluiu todos os pedidos antes de enviar a solicitação. Depois de não ter compras ou vendas pendentes, você pode remover sua conta com algumas etapas. Para obter mais informações sobre por que sua solicitação de remoção de conta pode ser rejeitada, consulte o artigo 'Por que minha solicitação de remoção de conta foi rejeitada? ''.Abaixo estão as etapas para remover sua conta.1) Faça login no aplicativo móvel do site (a remoção da conta não está disponível no PC Mall e no Seller Center). Clique na aba 'Eu' e depois em 'Configuração da conta'.  2) Clique em 'Solicitar remoção da conta' na parte inferior da página. 3) Reconheça que a remoção da conta é irreversível. 4) Observe os seguintes detalhes importantes e clique em 'Continuar'. 5) Um código de verificação será enviado para o número de contato registrado na conta. Digite o código de verificação recebido e clique em 'Continuar'. 6) Diga-nos por que você está saindo. Valorizamos o seu feedback - ajude-nos a melhorar ainda mais a experiência do cliente. Concorde com os termos e condições para prosseguir. Enviar para confirmar. 7) A remoção da conta é instantânea e você será redirecionado para a página 'Comprar'."
+      },
+      {
+          "id": 11,
+          "nome": "[Minha Conta] Como Altero O Idioma neste site?",
+          "mensagem": "Você pode alterar as configurações de idioma acessando: Aba Eu Configurações da conta Idiomas disponíveis no do site: Inglês Bahasa Malásia Chinês tradicional Chinês simplificado Tailandês Bahasa Indonésia Vietnamita"
+      },
+      {
+          "id": 12,
+          "nome": "[Segurança Da Conta] Posso Me Registrar Novamente Depois De Remover Minha Conta?",
+          "mensagem": "Se sua conta for limitada, você não poderá se registrar usando o endereço de e-mail ou o número de telefone que você usou anteriormente. Sugerimos que você consulte o artigo Por que minha conta está sendo limitada  para apelo à conta? Se você solicitou a remoção da sua conta, poderá se registrar usando o mesmo endereço de e-mail ou número de telefone usado anteriormente. O do site reserva o direito de banir ou encerrar sua conta de usuário sem aviso prévio, a seu exclusivo critério."
+      },
+      {
+          "id": 13,
+          "nome": "[Segurança Da Conta] Por Que Preciso Verificar Meu Número De Telefone?",
+          "mensagem": "A verificação do número de telefone é importante, pois o Comprador deseja garantir que todos os usuários sejam usuários reais. Os compradores só poderão iniciar um bate-papo com o vendedor ou fazer um pedido depois de atualizarem seu número de telefone com sucesso. O código de verificação será enviado ao seu número de telefone para registro e você só poderá comprar após a conclusão. Se você for um vendedor, você estará qualificado apenas para listar e publicar seus produtos em sua loja para os compradores comprarem depois de registrar seu número de telefone. No final do dia, queremos criar uma comunidade segura e positiva aqui no do site. Se você não conseguir verificar seu número de telefone devido a alterações recentes, consulte nosso artigo  Como altero meu número de telefone"
+      },
+      {
+          "id": 14,
+          "nome": "[Comentários] Como Entrar Em Contato Com O Atendimento Ao Cliente neste site?",
+          "mensagem": "Você pode entrar em contato conosco AQUI. Por favor, digite o seu nome de usuário do do site e uma breve declaração sobre a sua consulta para nossa referência a fim de atendê-lo de uma maneira mais eficiente. Nosso atendimento via chat online funciona de segunda a sábado, das 6:00 as 22:00."
+      },
+      {
+          "id": 15,
+          "nome": "[Minha Conta] Por Que Não Recebi Meu Código De Verificação?",
+          "mensagem": "Se você não recebeu seu código de verificação, verifique se está usando um número de telefone registrado na Brasil para poder baixar e usar o do site Brasil. Para verificar se você efetuou login na conta correta, clique em 'Eu'> 'Configurações da conta'> 'Meu perfil' para ver os detalhes da conta. 1) Clique em 'Eu'> Clique em 'Configurações da conta' Após digitar seu código de verificação, preencha seus dados para se registrar. Observe que, se você já usou 'Conecte-se ao Facebook' ou 'Inscreva-se com e-mail' antes, pode ter feito login em uma conta diferente criada com seu e-mail. Siga as etapas acima para registrar seu número de telefone clicando em 'Editar' e 'Telefone' em 'Configurações da conta'. Se isso mostrar que seu número de telefone foi registrado em outra conta, tente fazer login usando o seu número de telefone para recuperar o acesso à conta."
+      },
+      {
+          "id": 16,
+          "nome": "[Noções Básicas Do Vendedor] Como Alterar Meus Dados Bancários",
+          "mensagem": "Como faço para alterar meus dados bancários?   Os dados bancários, cadastrados pelo vendedor, devem estar corretos e sempre atualizados para que suas vendas sejam recebidas sem atrasos.   Para alterar os seus dados bancários ou incluir novas contas para recebimento, basta seguir os passos abaixo:   Faça o login em sua conta e acesse a Central do Vendedor; Clique no item 'FINANÇAS' no canto esquerdo da página; Clique no item 'CONTAS BANCÁRIAS' e insira a sua senha do site para verificação; Antes de excluir a conta já cadastrada, adicione uma nova conta com dados corretos ou então adicione novamente a conta cadastrada, clicando em 'ADICIONAR NOVA CONTA BANCÁRIA'; Preencha seus dados e tenha atenção ao tipo de conta selecionada; Clique em 'SALVAR' e verifique se a nova conta está cadastrada e verificada; Selecione a nova conta e clique em 'DEFINIR COMO PADRÃO' e, em seguida, clique em 'SALVAR'; Você receberá um SMS no telefone cadastrado NO site para a validação da mudança; Na Central do Vendedor, clique novamente na conta antiga e depois em 'EXCLUIR' e depois em 'CONFIRME'.   Após realizar todos os passos a sua conta estará cadastrada, atualizada e pronta para receber todas as suas vendas!   Para mais informações, você também pode consultar Centro de Educação para Vendedor ."
+      },
+      {
+          "id": 17,
+          "nome": "[Segurança Da Conta] O Que Devo Fazer Se Esquecer Minha Senha?",
+          "mensagem": "A fim de garantir a segurança da plataforma No site, podemos suspender contas que nosso sistema sinaliza automaticamente como tendo violado nossos Termos e Condições . Existem diferentes motivos para a limitação da conta e isso pode incluir, mas não se limitando à criação de pedido falso, abuso promocional, golpe, etc.   Como apelar Você pode entrar com um recurso para reativar sua conta novamente preenchendo o formulário aqui. Pode ser necessário fornecer os documentos mencionados abaixo:   Documento de identificação válida (por exemplo, passaporte, RG, carteira de estudante, carteira de trabalho) Comprovante de compra (por exemplo, fotos dos produtos comprados, pedido de envio, captura de tela do bate-papo com comprador/vendedor, etc.)"
+      },
+      {
+          "id": 20,
+          "nome": "[Rastreamento De Pedidos] Como Faço Para Rastrear Minha Encomenda Do Exterior?",
+          "mensagem": "Para acompanhar seu pedido do exterior, vá para A Enviar ou A Receber na seção Minhas Compras na guia Eu no Aplicativo do site > Selecione o status de envio do seu pedido > Visualize todas as atualizações de envio.   Rastreamento de atualizações de envio de pedidos vindos do exterior no do site App Pode levar de 24 a 48 horas para que o status de rastreamento de um pedido seja atualizado por nossos parceiros logísticos. Quando a encomenda chegar ao Brasil, você receberá um código de rastreamento dos Correios."
+      },
+      {
+          "id": 21,
+          "nome": "[Cancelamento Do Pedido] Posso Cancelar Meu Pedido?",
+          "mensagem": "Você pode cancelar seu pedido enviando uma solicitação de cancelamento. Para fazer isso, selecione Cancelar pedido na página Detalhes do pedido > Selecione o motivo de cancelamento> Confirme para envio da solicitação. Enviando solicitação de cancelamento de pedido no do site App   Os compradores podem enviar apenas uma solicitação de cancelamento para cada pedido. Se sua solicitação de cancelamento for rejeitada ou retirada, você não poderá enviar outra solicitação para o mesmo pedido.   O cancelamento funciona de maneira diferente para diferentes tipos de pedidos:   1. Pedidos locais pagos (sem encomenda) O cancelamento pode ser feito instantaneamente dentro de 1 hora após ter feito o pedido, antes do envio ser organizado pelo vendedor. Após a marca de 1 hora, você precisará da aprovação do vendedor para cancelar seu pedido. Você não poderá cancelar seu pedido uma vez que o envio tenha sido organizado.   2. Pedidos pagos (pré-encomenda) Você precisará da aprovação do vendedor para o cancelamento, independentemente de o envio ter sido organizado. Após o envio de sua solicitação, o vendedor deve responder em até 2 dias. Se não o fizer, o pedido será automaticamente cancelado pelo nosso sistema e você será reembolsado de acordo com o seu método de pagamento.   3. Pedidos pagos vindos do exterior (sem pré-encomenda) O cancelamento pode ser feito instantaneamente dentro de 1 hora após ter feito o pedido, antes do envio ser organizado pelo vendedor. Após a marca de 1 hora, você precisará da aprovação do vendedor para cancelar seu pedido. O cancelamento não será possível uma vez que o envio tenha sido organizado.   Verificando o status do pedido de cancelamento Para verificar o status da sua solicitação de cancelamento, selecione Exibir detalhes de cancelamento do pedido em Minhas compras.   Verificando o status da solicitação de cancelamento no do site App Se você não deseja mais cancelar o pedido, selecione Remover solicitação de cancelamento> Confirmar.    Retirando o status da solicitação de cancelamento no do site App ⚠️ Importante Os vendedores podem rejeitar solicitações de cancelamento de pedidos que foram embalados / organizados para envio. Se necessário, você pode conversar diretamente com o vendedor através do Chat ou fazer uma solicitação de devolução / reembolso após receber seu pedido. Os reembolsos serão processados automaticamente após o cancelamento bem-sucedido."
+      },
+      {
+          "id": 22,
+          "nome": "[Pagamento] Quanto Tempo Tenho Para Fazer O Pagamento Do Meu Pedido Não Pago?",
+          "mensagem": "Após finalizar um pedido, você precisará realizar o pagamento dentro de um prazo específico para concluir seu pedido. Este limite de tempo depende do seu método de pagamento:   1. Para pedidos feitos via cartão de débito / crédito A verificação do pagamento pode levar até 24 horas para ser concluída após a finalização da compra.   2. Para pedidos feitos via cartão de débito virtual da Caixa A verificação do pagamento pode levar até 24 horas para ser concluída após a finalização da compra.   3. Para pedidos feitos via boleto bancário Você tem 1 dia útil para concluir o pagamento após a finalização da compra.    ⚠️ Importante Pedidos não pagos são considerados incompletos e não serão processados. Se eles não forem pagos dentro do limite de tempo especificado, eles serão automaticamente cancelados pela do site.   Você pode verificar a data de vencimento do pagamento do seu pedido de duas maneiras:   1. Por meio da página Pedido bem-sucedido, depois de fazer um pedido com sucesso.   Informações de pagamento após o pedido feito no do site App   2. Via A Pagar na aba Eu no App do site Em cada pedido não pago, haverá um lembrete que indica quando seu pagamento é devido e qual método de pagamento você deve utilizar."
+      },
+      {
+          "id": 23,
+          "nome": "[Novo NO site] Como Posso Comprar Vários Produtos De Diferentes Vendedores No Mesmo Pedido?",
+          "mensagem": "Para comprar produtos de diferentes vendedores no mesmo pedido, basta adicionar os produtos ao seu carrinho por meio do botão Adicionar ao carrinho enquanto navega. Dessa forma, você poderá pagar por eles juntos durante a finalização da compra. Adicionando produto ao carrinho no aplicativo do site   Depois de adicionar os produtos desejados ao carrinho, para fazer seu pedido, selecione o ícone do carrinho de compras no App > Selecione os produtos para comprar na página Carrinho de compras > Continuar > Fazer pedido para confirmar sua compra.   Fazendo pedido de vários produtos no do site App"
+      },
+      {
+          "id": 24,
+          "nome": "[Segurança Do Pedido] O Que É A Garantia do site?",
+          "mensagem": "A Garantia do site  é um recurso em que os pagamentos aos vendedores são retidos temporariamente e os pagamentos serão liberados quando os compradores confirmarem que os pedidos foram realizados e satisfatórios.   Este período é calculado com base nos Dias para Enviar (DTS) do vendedor e Tempo de Entrega Estimado, que começa a partir da data de confirmação do pagamento.   Aqui está um exemplo de como isso pode ser calculado:   3 (Dias para Envio¹) + 7 (Tempo Estimado de Entrega²) + 7 (Tempo de Confirmação do Comprador³) = 17 dias   ¹ Dias para envio - número de dias que o vendedor leva para se preparar para a entrega ² Tempo Estimado de Entrega - tempo médio de entrega por parceiro logístico ³ Tempo de Confirmação do Comprador - número de dias que o comprador leva para confirmar o recebimento após a entrega   Para pedidos que ainda não foram enviados Os vendedores precisam garantir que enviaram o pedido dentro do período de garantia do comprador, caso contrário, o pagamento será automaticamente reembolsado a você quando esse período terminar.   Você tem permissão para uma extensão única de 3 dias do período de Garantia do site se os vendedores ainda não tiverem despachado o item. Para fazer isso, selecione Estender Garantia do site na página Detalhes do pedido.    Extensão da garantia do comprador para pedido ainda não enviado no aplicativo do site   Para pedidos que já foram enviados Você precisará confirmar o recebimento do pedido ou solicitação de devolução / reembolso dentro do período de Garantia do site, caso contrário, o pagamento será automaticamente liberado para os vendedores quando esse período terminar.   Você tem permissão para uma extensão única de 7 dias do período de Garantia do site se ainda não tiver recebido um pedido que foi enviado.   Se você ainda não recebeu seu pedido antes do último dia do período de extensão, solicite um reembolso antes do término do período de extensão da Garantia do site de 7 dias."
+      },
+      {
+          "id": 25,
+          "nome": "[Novo NO site] Quais Opções De Pagamento São Aceitas Pela do site?",
+          "mensagem": "A do site aceita um total de 3 opções de pagamento: Cartão de Crédito Boleto Bancário Cartão de Débito Virtual da Caixa   Cartão de Crédito Aceitamos quase todas as bandeiras NO site, desde que os cartões tenham sido emitidos nacionalmente.   Boleto Bancário É possível realizar o pagamento via boleto bancário, seja fisicamente ou via internet banking. Vale lembrar que pagamentos por boleto bancário podem demorar até 3 dias úteis para ser compensados após efetuar o pagamento.    Cartão de Débito Virtual da Caixa O usuário que possuir o cartão de débito virtual da Caixa poderá utilizá-lo em suas compras NO site, basta adicioná-lo acessando a área “Eu”, “Minha Conta”, depois em “Cartão de crédito” e clicar em “Adicionar um novo cartão de crédito”. Pix O Pix é o meio de pagamento do Banco Central pelo qual é possível fazer pagamentos e transferências 24 horas por dia, 7 dias por semana. Todas as transações Pix são criptografadas e autenticadas de acordo com as diretrizes do Banco Central. A opção Pix aparecerá após clicar em 'Opção de pagamento', selecione a opção 'Pix'. É possível pagar com Pix via 'Pix copia e cola' ou QR Code, ambos disponíveis no celular ou pelo internet banking"
+      },
+      {
+          "id": 26,
+          "nome": "[Novo NO site] Posso Alterar Meu Método De Pagamento?",
+          "mensagem": "Você pode alterar o seu método de pagamento a qualquer momento antes que o pedido seja finalizado com sucesso NO site.   Os pagamentos que ainda não foram concluídos podem ser encontrados na página Minhas compras. Para alterar seu método de pagamento, vá para a guia Eu > A Pagar > selecione o pedido > Alterar método de pagamento > selecione o método de pagamento disponível. Alteração dos métodos de pagamento   ⚠️Importante Você deve fazer seu pagamento até a data indicada na página Minhas compras > A Pagar. Data de vencimento   Se o seu pedido não for encontrado na página A Pagar, isso significa que o seu pagamento foi processado com sucesso com o método selecionado anteriormente e não será mais possível alterá-lo"
+      },
+      {
+          "id": 27,
+          "nome": "[Taxa De Envio] Como Verifico A Taxa De Envio Do Meu Pedido?",
+          "mensagem": "Você pode verificar as taxas estimadas de envio de produtos em seu pedido através da página Detalhes do produto ou durante a finalização do pedido.   Na página Detalhes do produto Selecione a seção de informações do frete para visualizar a taxa e tempo estimados para envio de acordo com as opções de envio disponíveis.   Visualização de taxas de envio e informações de entrega através da página de detalhes do produto no Aplicativo do site   Na página de Finalização do pedido A taxa de envio é mostrada na seção Opção de Envio para cada loja que você está comprando. As taxas totais de envio de um pedido serão mostradas no Subtotal do Frete.   Taxa de envio e subtotal para pedido na página de finalização do pedido no Aplicativo do site"
+      },
+      {
+          "id": 28,
+          "nome": "[Cartão De Crédito / Débito] Como Excluo Os Detalhes Do Meu Cartão De Crédito / Débito?",
+          "mensagem": "Você pode excluir os detalhes do seu cartão de crédito/débito vinculados aos métodos de pagamento no app No site.   Vá para a seção Eu > selecione o ícone ⚙ > selecione Contas bancárias / cartões  > selecione o cartão que deseja excluir > Apagar > insira sua senha > Continuar   Excluindo detalhes do cartão de crédito/débito   ⚠️Importante Ao clicar em “Continuar”, os dados do cartão de crédito/débito serão imediatamente excluídos. Se você acidentalmente excluiu os detalhes do cartão, adicione-o novamente na mesma página."
+      },
+      {
+          "id": 29,
+          "nome": "[Parcelamento] Como Faço Para Pagar Parcelado Com Cartão De Crédito?",
+          "mensagem": "Antes de pagar parcelado, você terá que adicionar um cartão de crédito como um método de pagamento em sua conta do site. No App do site, acesse a guia Eu > Configurações da Conta > Contas Bancárias / Cartões > Adicionar um novo Cartão de Crédito. Preencha os dados do seu cartão de crédito e clique em Enviar.   Adicionando cartão de crédito como método de pagamento Você será redirecionado para a página de confirmação. Preencha a Senha Única (OTP) enviada para o seu número de celular quando solicitado e clique em Enviar.   Ao escolher e finalizar a compra de um produto elegível, você pode selecionar o número de parcelas desejado > CONFIRMAR. Pagando parcelado no cartão de crédito na finalização do pedido   Após o pagamento bem-sucedido, você será redirecionado para a página A Enviar.   ⚠️Importante Pagamentos parcelados estão sujeitos aos termos e condições determinados pela do site assim como pelo banco/provedor de cartão de crédito."
+      },
+      {
+          "id": 30,
+          "nome": "[Leve Mais Por Menos] Posso Usar Cupons E Moedas No site Para Pagar Produtos Em Leve Mais Por Menos?",
+          "mensagem": "Sim, você pode usar cupons e moedas do site para pagar por ofertas em Leve Mais por Menos. Pagando com cupons Para pagar as ofertas em Leve Mais por Menos utilizando cupons, aplique os cupons elegíveis durante a finalização de sua compra.   Reivindicando vouchers para compra em Leve Mais Por Menos   Se não for possível pagar por uma oferta Leve Mais por Menos utilizando cupons, aqui estão alguns possíveis motivos: Sua compra não atende aos critérios de uso do cupom. Veja o regulamento de cada cupom antes de utilizá-lo.  Todos os cupons já foram resgatados por outras pessoas. A validade do cupom expirou. Sua conta pode ter sido limitada.   Pagando com Moedas do site Para pagar as ofertas em Leve Mais por Menos utilizando Moedas do site, habilite o botão Resgatar Moedas do site durante a finalização de sua compra. Resgatando Moedas do site para compra em Leve Mais Por Menos Se não for possível pagar por uma oferta Leve Mais por Menos utilizando Moedas do site, aqui estão alguns possíveis motivos: Você atingiu o limite de uso de: um máximo de 30% do seu valor de compra um máximo de 1.000 moedas por dia Você ainda não selecionou um item para finalização da compra. Selecionando um item na finalização para resgatar Moedas do site"
+      },
+      {
+          "id": 31,
+          "nome": "[Status Do Pagamento] Como Sei Se Meu Pagamento Foi Bem-Sucedido?",
+          "mensagem": "Se o seu pagamento foi processado com sucesso, você deve receber uma notificação via App No site.   Verificando notificações Vá para a guia Notificações > Atualizações de Pedidos e procure uma notificação intitulada Pagamento Confirmado.    Notificação de Pagamento Confirmado Para receber as notificações automaticamente, ajuste as Configurações de Notificação.   Você deve receber a notificação logo após o pagamento com métodos de pagamento automáticos. No entanto, observe que se você pagar via boleto bancário, a compensação pode levar até 3 dias úteis.  Se você não receber uma notificação após 24 horas indicando se seu pagamento foi bem sucedido, você pode entrar em contato com o Atendimento ao Cliente do site para obter informações."
+      },
+      {
+          "id": 32,
+          "nome": "[Parcelamento] Posso Usar Cupons / Moedas do site Se Estiver Pagando Parcelado Com Cartão De Crédito?",
+          "mensagem": "Sim, você pode usar cupons ou Moedas do site e parcelar suas compras.   ⚠️Importante No entanto, os pedidos precisam ter valor total acima de R$20, depois de reduzidos os descontos dos cupons. Ou seja, reduzindo os descontos dos cupons, se o preço final for menor que R$20, a compra não poderá ser parcelada."
+      },
+      {
+          "id": 33,
+          "nome": "[Frete Internacional] Quanto Tempo Levará Para Eu Receber Meu Pedido Vindo Do Exterior?",
+          "mensagem": "Você pode esperar receber sua encomenda vinda do exterior dentro de 30 a 50 dias. O cálculo de dias exclui os feriados, que diferem por Estado, e por dias não úteis do parceiro logístico.   Observe que a entrega de pedidos no exterior pode demorar mais devido às condições climáticas adversas, processos de desembaraço aduaneiro ou feriados. "
+      },
+      {
+          "id": 34,
+          "nome": "[Cartão De Crédito] Quais Cartões De Crédito Posso Usar NO site?",
+          "mensagem": "Aceitamos quase todas as bandeiras NO site, desde que os cartões tenham sido emitidos nacionalmente.   Se você possui um cartão de crédito emitido internacionalmente, não será possível utilizá-lo.   Considere utilizar outro método de pagamento para finalizar o seu pedido se você não possui um cartão de crédito emitido nacionalmente."
+      },
+      {
+          "id": 35,
+          "nome": "[Mudanças No Pedido] Por Que Meu Pedido Foi Dividido Pelo Vendedor?",
+          "mensagem": "Os pedidos às vezes podem ser divididos pelos vendedores devido a vários motivos, como por exemplo  pacotes grandes que excedem o limite de peso do pacote ou quando os produtos em um pedido são armazenados em vários depósitos.   Se o seu pedido for dividido pelo vendedor, você será notificado por meio do aplicativo do site. Seu pedido ainda aparecerá como um único pedido em Minhas compras, enquanto as atualizações de envio e os detalhes de parcelamento serão exibidos na página Detalhes do pedido.   Depois que um pedido for dividido, cada pacote dividido será enviado separadamente.   Cancelamento de pedidos divididos Os cancelamentos só podem ser feitos dependendo do status atual do pedido. Se você enviar uma solicitação de cancelamento, será para cancelar todo o pedido. Você não poderá fazer cancelamentos parciais. Os cancelamentos serão imediatos para pedidos para os quais os vendedores ainda não providenciaram o envio.   Devolução / Reembolso para pedidos divididos As solicitações de devolução / reembolso só podem ser feitas dependendo do nível em que está seu pedido. Observe que a solicitação só pode ser feita uma vez, mesmo que haja vários pacotes no mesmo pedido. Recomendamos que você aguarde a entrega de todos os pacotes divididos antes de fazer uma solicitação de devolução / reembolso, se necessário."
+      },
+      {
+          "id": 36,
+          "nome": "FAQs Pagamento",
+          "mensagem": "Opções de Pagamento  [Novo NO site] Quais opções de pagamento são aceitos pela do site? [Status do pagamento] Como sei se meu pagamento foi bem-sucedido? [Configurações de pagamento] Por que não consigo adicionar minha opção de pagamento preferida? [Leve Mais Por Menos] Posso usar cupons e moedas No site para pagar produtos em Leve Mais Por Menos? [Noções básicas do comprador] Posso alterar meu modo de pagamento?   Cartão de crédito/débito [Cartão de crédito] Quais cartões de crédito posso usar NO site? [Cartão de crédito] Existem taxas se eu pagar com cartão de crédito? [Cartão de crédito / débito] Por que não consigo pagar com meu cartão de crédito / débito? [Cartão de crédito / débito] Como excluo os detalhes do meu cartão de crédito / débito? Parcelamento [Parcelamento] Como faço para pagar parcelado com cartão de crédito? [Parcelamento] Quais são as condições de parcelamento com cartão de crédito? [Parcelamento] Por que meu cartão de crédito não pode ser usado para pagamentos parcelados? [Parcelamento] Posso usar cupons / Moedas do site se estiver pagando parcelado com cartão de crédito?"
+      },
+      {
+          "id": 37,
+          "nome": "[Proteção De Pedido] A do site Fornece Seguro Para Meu Pedido?",
+          "mensagem": "Infelizmente, este site não oferece seguro para seus pedidos, mas você pode contar com a Garantia do site para uma compra mais segura, além disso, caso não receba seu pedido, você pode solicitar um Reembolso."
+      },
+      {
+          "id": 38,
+          "nome": "[Entrega] Posso Alterar A Opção De Envio Após O Envio Do Meu Pedido?",
+          "mensagem": "Infelizmente, você não pode alterar sua opção de envio uma vez que seu pedido tenha sido enviado pelo vendedor.   Se você precisar alterá-lo com urgência, entre em contato com o Atendimento ao Cliente do site para cancelar seu pedido atual e então realize uma nova compra."
+      },
+      {
+          "id": 39,
+          "nome": "[Configurações De Pagamento] Por Que Não Consigo Adicionar Minha Opção De Pagamento Preferida?",
+          "mensagem": "Sua opção de pagamento preferencial, como cartão de crédito, pode ter sido rejeitada devido a: Cartão de Crédito inativo Envio incompleto/incorreto de informações   Cartão de crédito inativo Novos cartões de crédito precisam ser ativados antes de serem usados. Você pode confirmar com seu banco se seu cartão está ativo.   Envio incompleto/incorreto de informações Verifique o número do seu cartão e o nome do cartão ao adicionar uma opção de pagamento no Aplicativo do site.   Um formato errado do nome também será considerado como um envio incompleto/incorreto de informações. Por exemplo, o nome completo registrado no seu cartão de crédito é Sophia Shogi Tarsier. Os seguintes erros de preenchimento acarretarão em erro de preenchimento:   Nome incompleto -  Sophia Tarsier Ausência de espaços - SophiaShogiTarsier Erros de digitação - Sohpia Sogi Trasier Divergência de nome - Soh Pi Shogi Inclusão de números - Sophia Shogi Tarsier85   Se você ainda não conseguir adicionar seu cartão de crédito, entre em contato com o Atendimento ao Cliente do site."
+      },
+      {
+          "id": 41,
+          "nome": "Como Posso Denunciar A Violação Dos Meus Direitos?",
+          "mensagem": "A do site leva a proteção da Propriedade Intelectual (PI) a sério e não tolera o uso de PI de maneira contrária à legislação aplicável.   Cada vendedor é responsável por garantir que seus produtos listados e seus conteúdos de anúncios, incluindo imagens de produtos e descrições não infringem direitos de propriedade intelectual detidos por qualquer outra parte. Alguns exemplos de violação são:   Infração à marcas registradas: O uso não autorizado de qualquer marca, nome comercial ou imagem comercial de terceiros, ou qualquer elemento muito semelhante a essa marca, nome comercial ou imagem comercial, em relação ao produto listado, à sua embalagem ou ao anúncio de produtos.     Violação de Direitos Autorais: O uso não autorizado de conteúdo protegido por direitos autorais, como imagens e descrições, em relação ao produto listado, à sua embalagem ou ao anúncio de produtos.   Violação de Desenho Industrial: O uso não autorizado de um desenho industrial, ou um desenho substancialmente semelhante ao desenho registado, em relação a um produto anunciado.   Violação de Patente: utilização não autorizada de uma invenção patenteada em relação ao produto anunciado.   “O uso não autorizado” refere-se ao uso de PI sem qualquer consentimento, licença ou autorização do respectivo proprietário da PI.   Caso queira enviar uma reclamação de violação, por favor preencha o formulário no link abaixo: Formulário de Violação de Propriedade Intelectual.    O site receberá cada Reclamação de PI (IPR) e trabalhará em colaboração com o proprietário da PI ou com seu agente autorizado para uma solução rápida da reclamação.   Note que, a fim de nos ajudar a proteger os seus direitos, é indispensável a apresentação de documentação de suporte suficiente e válida para provar a existência da propriedade dos direitos reivindicados na jurisdição em que o anúncio tenha sido veiculado e que os anúncios específicos reclamados constituem ou contêm uma violação do referido direito. Para mais detalhes, consulte a secção 8 do Termos de Serviço No site.    \t Natureza da Reclamação Documentos Necessários Marca Registrada Direitos Autorais Desenho Industrial Patente Carta de Autorização ou Procuração Sim, quando o Reclamante não for o titular da PI Sim, quando o Reclamante não for o titular da PI Sim, quando o Reclamante não for o titular da PI Sim, quando o Reclamante não for o titular da PI Certificado local de Registo da PI Sim Sim, se registrável no território Sim Sim Representação visual  e/ ou lista de preços em moeda local se a acusação é de violação de marca/produtos falsificados   A pedido No site   N/A   N/A   N/A Prova visual das imagens com direitos autorais / obras de arte que  têm sido utilizados   N/A   A pedido No site   N/A   N/A   Veja abaixo alguns exemplos de documentos necessários para que a do site possa avaliar sua reclamação:     "
+      },
+      {
+          "id": 42,
+          "nome": "[Noções Básicas Do Vendedor] Como Começo A Vender No do site?",
+          "mensagem": "É ótimo tê-lo a bordo como vendedor! Antes de tudo, verifique se você concluiu o registro da conta com seu número de telefone, pois seus produtos não estarão visíveis para o comprador se o registro não for concluído com um número de telefone.   Pronto? Vamos seguir em como publicar seu primeiro produto no do site.   Abaixo estão as etapas para postar produtos do do site App:   1. Vá para a página 'Eu' e clique em 'Minha loja'. 2. Você precisará clicar em 'Adicionar novo produto'. 3. Escolha de onde você gostaria de adicionar o seu produto, faça o upload das fotos e edite as fotos do produto apropriadamente. Podem ser adicionadas até 9 fotos para cada postagem. 4. Preencha os detalhes do produto, como Categoria, Preço, Estoque, Variação, Peso, Taxa de Remessa e Dias para Envio. Não se esqueça de publicar seu produto para torná-lo visível para os compradores! Agora seu produto está listado no do site!   Abaixo estão as etapas para postar produtos do Central do Vendedor:   1) Clique em 'Meu Produto' 2) Clique em 'Adicionar novo produto' 3) Insira o nome do seu produto, nosso sistema irá sugerir a categoria mais relevante com base no nome do seu produto. 4) Insira os detalhes e a marca do seu produto. 5) Insira o preço e a quantidade disponível de estoque do seu produto. Você pode anexar até 9 fotos ao seu produto. 6) Por fim, insira o peso do produto, escolha qual serviço de correio você gostaria de usar para enviar este item, salve a postagem do produto e publique.   Veja 'Como recebo meu pagamento?' e 'Como atualizo o número de rastreamento para vários pedidos?' pode ser necessário seguir essas etapas logo após receber suas primeiras vendas.   Confira nosso Centro de Educação para Vendedor para obter mais dicas e truques para vender no do site. Você pode clicar nas subcategorias abaixo para ver todos os outros tópicos relacionados."
+      },
+      {
+          "id": 45,
+          "nome": "[Rastreamento De Pedidos] Como Faço Para Verificar O Status Do Meu Pedido?",
+          "mensagem": "Você pode verificar o status de seus pedidos através de Minhas Compras na guia Eu no Aplicativo do site.   Todas as suas compras serão categorizadas de acordo com seus status de pedido: A Pagar - compreende todos os pedidos não pagos  A Enviar - compreende todos os pedidos pagos que não foram enviados por vendedores A Receber - compreende todos os pedidos que foram enviados Finalizado - compreende todos os pedidos que foram entregues  Cancelado - compreende todos os pedidos que foram cancelados Reembolso - compreende todos os pedidos que foram reembolsados   Verificando o status do pedido através de Minhas Compras no Aplicativo do site Rastreando o status de entrega dos pedidos Uma vez que seu pedido esteja sob o status A Enviar ou A Receber, você pode visualizar atualizações detalhadas de envio e acompanhar seu status de entrega.   Rastreamento de atualizações de envio do pedido no Aplicativo do site   ⚠️ Importante Os pedidos podem ser acompanhados em detalhe diretamente no Aplicativo do site."
+      },
+      {
+          "id": 46,
+          "nome": "[Entrega] Por Que Não Consigo Selecionar Uma Opção De Envio Durante A Finalização Da Compra?",
+          "mensagem": "Se você visualizar as mensagens de erro 'Este produto não suporta a opção de envio selecionada' ou 'Nenhuma opção de envio disponível' durante a finalização do pedido, pode ser devido a um endereço de entrega incompleto ou inválido ou que a área de entrega está fora da área de cobertura.   ⚠️Importante Cada transportadora possui uma área de cobertura. Algumas opções de envio não estão disponíveis por estarem fora da área de cobertura da transportadora.   Mensagens de erro de opção de envio durante o checkout no App do site Para solucionar este problema, verifique se o endereço de entrega foi preenchido de forma correta e completa.   Selecione a seção Endereço de Entrega na página de finalização do pedido > clique em Editar > Selecione o endereço que deseja alterar > Edite as informações do endereço conforme necessário > clique em Enviar.  Edição do endereço de entrega durante a finalização no App do site"
+      },
+      {
+          "id": 47,
+          "nome": "[FAQ] Sobre Os Serviços De Envio E Entrega No site",
+          "mensagem": "1. Como a do site calcula as taxas de envio? O site calcula as taxas de envio com base no peso do pacote e nas dimensões fornecidas pelo vendedor, bem como as taxas dos diferentes parceiros logísticos.   2. Os produtos de vendedores diferentes no mesmo pedido serão entregues pelo mesmo método de envio? Não, quando você compra de diferentes vendedores no mesmo pedido, o produto será entregue com base nas opções de envio oferecidas para cada vendedor e de acordo com a área de cobertura dos parceiros logísticos.   Por exemplo, se você comprar os itens A e B do Seller X e item C do Seller Y no mesmo pedido: Itens A e B serão enviados pelo parceiro logístico disponível na região do Vendedor X. Item C será enviado pelo parceiro logístico disponível na região do Vendedor Y.    Opções de envio para diferentes vendedores no mesmo pedido no do site App ⚠️ Importante As taxas de envio também serão cobradas separadamente para produtos de diferentes vendedores.   3. Posso mudar minhas opções de transporte?  Você pode alterar sua opção de envio somente durante a finalização do pedido e antes de efetuar o pagamento. Depois que o pedido for feito, você não poderá mais alterar sua opção de envio. Se você realmente deseja alterar sua opção de envio, você pode cancelar seu pedido e realizar uma nova compra.   4. Onde posso encontrar atualizações de envio para o meu pedido? Para exibir as atualizações de envio de seus pedidos, vá para A Enviar ou A Receber em Minhas Compras na seção Eu no App do site > Selecione o status de envio do seu pedido > Visualize todas as atualizações de envio.   Rastreando atualizações de envio de pedidos no Aplicativo do site   5. E se eu não estiver satisfeito com o serviço de entrega? Se você não estiver satisfeito com o serviço de entrega, você pode deixar uma classificação para o Serviço de Entrega quando você classificar o(s) seu(s) produto(s) depois de confirmar o recebimento do seu pedido.  Classificação do serviço de entrega de pedidos no App do site"
+      },
+      {
+          "id": 48,
+          "nome": "[Entrega] Posso Agendar A Data E Hora De Entrega Do Meu Pedido?",
+          "mensagem": "Infelizmente, não podemos apoiar o agendamento de datas e horários específicos de entrega no momento.   Se possível, esteja disponível ou providencie que outra pessoa esteja presente em seu endereço de entrega em torno da data estimada de entrega. Você pode acompanhar as atualizações de envio do seu pedido através da aba A Receber na seção Eu do App do site > Verifique o status do envio para saber a data prevista para entrega.   Rastreamento do status de envio de pedidos no Aplicativo do site Se você não estiver disponível no momento da entrega: A transportadora tentará entregar novamente com base em suas políticas de re-entrega, normalmente serão 3 tentativas de entrega. No caso dos Correios, seu pacote pode ser mantido em uma agência mais próxima para você buscá-lo. Normalmente, o pacote permanecerá neste local por até 7 dias. Se não for recolhido até o final deste período, poderá ser devolvido ao vendedor."
+      },
+      {
+          "id": 49,
+          "nome": "[Entrega] Posso Alterar Meu Endereço De Entrega Depois Que Meu Pedido For Feito?",
+          "mensagem": "Você pode alterar seu endereço depois de fazer um pedido somente se atender a todos os critérios: Você não fez o pagamento ou pagamento não foi confirmado. Você não solicitou uma mudança de endereço para o pedido antes. O endereço de entrega só pode ser alterado uma vez para cada pedido. Se você atender a todos os critérios acima, você pode proceder para alterar seu endereço de entrega.   Para isso, selecione A Enviar em Minhas Compras na seção Eu do Aplicativo do site > Selecione o pedido > Selecione ALTERAR ao lado do endereço de entrega > Selecione o endereço para o qual deseja alterar > Confirmar. Alterando o endereço de entrega para pedido no Aplicativo do site ⚠️ Importante Para alterar para um novo endereço que não está salvo em nosso sistema, você pode Adicionar um novo endereço na página Seleção de endereços. Adicionando novo endereço no Aplicativo do site   Se você ainda deseja mudar seu endereço mesmo que seu pedido já tenha sido enviado pelo vendedor, você terá que cancelar o seu pedido e efetuar uma nova compra. Para cancelar o pedido após ter sido enviado, você deve entrar em contato com nossa equipe de Atendimento ao Cliente via Chat no App ou e-mail."
+      },
+      {
+          "id": 50,
+          "nome": "[Entrega] Por Que A do site Mudou A Opção De Envio Do Meu Pedido Durante A Finalização Da Compra?",
+          "mensagem": "A do site seleciona automaticamente a melhor opção de envio para você durante a finalização da compra, para que você possa receber seus pedidos o mais rápido possível.   Se você deseja alterar para a sua opção de envio preferida, vá para a Opção de Envio na página de finalização da compra no App do site > Selecione uma opção de envio preferencial com base nas opções fornecidas  > Confirme.   Selecionar opção de envio para pedido durante finalização do pedido no Aplicativo do site"
+      },
+      {
+          "id": 51,
+          "nome": "[Parceiros Logísticos] Quais São As Opções De Envio Disponíveis NO site?",
+          "mensagem": "Entendendo as opções de envio disponíveis O site conta com operadores logísticos parceiros para fazer as entregas dos seus pedidos. Operadores Logísticos Parceiros incluem: Correios Total Express Sequoia Loggi Rede Sul   Quais são as vantagens de usar os Parceiros Logísticos?  tabela-do siteenvios.jfif Acompanhando as atualizações de envio de seus pedidos Para exibir as atualizações de envio de seus pedidos, vá para A Enviar ou A Receber em Minhas Compras através da seção Eu no App do site > Selecione o status de envio do seu pedido > Visualize todas as atualizações de envio: O número de rastreamento será compartilhado automaticamente uma vez que esteja disponível. Todos os detalhes do envio serão atualizados regularmente, desde a preparação do seu pacote, retirada pela transportadora, até a entrega. Selecionar opção de envio para pedido durante finalizaçã do pedido no Aplicativo do site   ⚠️ Importante Quando você compra produtos de diferentes vendedores em um mesmo pedido, as opções de envio variam de acordo com o que está disponível para cada vendedor."
+      },
+      {
+          "id": 52,
+          "nome": "[Envio Do Exterior] Como Minha Encomenda Do Exterior Será Entregue Quando Chegar Ao Brasil?",
+          "mensagem": "Assim que sua encomenda chegar ao Brasil, ela será entregue pelos Correios.   Você será notificado via App do site com um número de rastreamento local, que você pode usar para acompanhar o envio de sua encomenda através do site dos Correios."
+      },
+      {
+          "id": 53,
+          "nome": "[Taxa De Envio] Por Que A Taxa De Envio Real É Diferente Daquela Mostrada No Sistema No site?",
+          "mensagem": "Diferenças na taxa de frete podem ocorrer por dois motivos:   1. Diferença de Peso Durante o checkout, a taxa de envio estimada dos produtos é calculada com base no peso do produto fornecido pelo vendedor. Se houver uma discrepância entre o peso estimado e o peso real do pacote, o custo excedente será custeado pelo vendedor.   2. Registro impreciso no sistema No site Se as taxas de envio de parceiros logísticos forem registradas de forma imprecisa em nosso sistema, os vendedores podem entrar em contato com nossa equipe de Atendimento ao Cliente para enviar uma solicitação."
+      },
+      {
+          "id": 54,
+          "nome": "[Rastreamento De Pedido] Como Entro Em Contato Com Os Parceiros Logísticos No site Para Rastrear Meu Pedido?",
+          "mensagem": "Recomendamos que acompanhe o status de seus pedidos diretamente no nosso App do site. Se desejar, você pode acompanhar o status do seu pedido diretamente com a transportadora nos seguintes sites de rastreamento:   Parceiro Logístico Site de Rastreamento Correios https://www2.correios.com.br/sistemas/rastreamento/ Total Express https://tracking.totalexpress.com.br/ Loggi https://www.loggi.com/rastreador/ Sequoia https://portalvesta.sequoialog.com.br/#/app2/rastreamento-consulta Rede Sul https://www.redesullog.com.br/   ⚠️ Nota Nossos parceiros logísticos do site farão 3 tentativas de entrega antes de devolver o pedido ao vendedor devido ao não recebimento."
+      },
+      {
+          "id": 55,
+          "nome": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL",
+          "mensagem": "IMPORTAÇÃO DE ENCOMENDAS - VENDEDORES INTERNACIONAIS E POSSÍVEIS TAXAS ADICIONAIS DA RECEITA FEDERAL 08/07/2021•FAQ Se você efetuou um pedido de vendedores internacionais, note que a legislação brasileira poderá efetuar a cobrança adicional de taxas de importação pelo sistema de fiscalização aduaneira. A taxa é cobrada pelo órgão de fiscalização e não é de responsabilidade do vendedor.    Esta taxa é de responsabilidade exclusiva do comprador e não é reembolsada pela do site.    Caso o comprador opte por não prosseguir com o pagamento, a encomenda deverá retornar ao país de origem, após autorização da Receita Federal, e o reembolso do pedido poderá ser solicitado a partir da identificação da devolução do objeto. O comprador deverá clicar no botão de “Pedido de Reembolso”, assim que ele ficar disponível.    Não há valor mínimo para esta taxa adicional cobrada pela Receita Federal, mas o órgão de fiscalização costuma selecionar encomendas aleatórias com montantes maiores do que 50 USD (50 dólares) declarados. Há casos de exceção em que valores menores poderão ser taxados.    Se você recebeu uma notificação ou um telegrama de cobrança, será necessário efetuar o pagamento adicional da taxa de importação diretamente no site dos Correios, para a liberação da sua encomenda. Utilize o código de rastreamento disponível em “Minhas compras” (código começando com “LB” ou “NX”) no nosso site ou aplicativo e consulte o status da sua importação aqui."
+      },
+      {
+          "id": 56,
+          "nome": "Noções Básicas Do Comprador] Qual É O Tempo De Envio?",
+          "mensagem": "O Tempo de Envio é calculado como o momento desde que o pedido é pago até a empresa de entrega pega o produto do Vendedor com sucesso.    Os itens em Pré-Encomenda (7 ou mais dias para envio) são excluídos do cálculo do Tempo de Envio.   O comprador poderá verificar a velocidade do envio em mais detalhes abaixo no aplicativo do site e no site:  "
+      },
+      {
+          "id": 57,
+          "nome": "[PRODUTOS NA AGÊNCIA DOS CORREIOS",
+          "mensagem": "Se você foi informado que sua encomenda está disponível para retirada em uma agência dos Correios, utilize o código de rastreamento disponível em “Minhas compras” no nosso site ou aplicativo e consulte o endereço de retirada aqui .   No status da entrega você encontrará o endereço da agência onde sua encomenda está te esperando."
+      },
+      {
+          "id": 59,
+          "nome": "[Reembolso E Devolução] O Vendedor Pode Rejeitar Minha Solicitação De Cancelamento? Posso Enviar Outra Solicitação De Cancelamento?",
+          "mensagem":"Após solicitar o cancelamento da compra, o vendedor tem a possibilidade de recusar o cancelamento do cliente caso o produto já tenha sido postado na transportadora. Quando isso acontecer, o pedido voltará com o status “Pago” e terá o nome do Vendedor como “Operador”. O vendedor tem o direito de rejeitar sua solicitação de cancelamento se o pedido já tiver sido processado. Depois que o vendedor rejeitar sua solicitação de cancelamento, o pedido continuará sendo enviado normalmente. No entanto, se um comprador cancelar o pedido dentro de 1 hora após o pagamento ser efetuado, o cancelamento será instantâneo, o que não exigirá a aprovação do vendedor. Os pedidos que não foram pagos também podem ser cancelados. Esses pedidos podem ser cancelados sem a aprovação do vendedor. Depois que sua solicitação for rejeitada ou retirada, você não poderá enviar outra solicitação de cancelamento para o mesmo pedido."
+      },
+      {
+          "id": 60,
+          "nome": "[Reembolso E Devolução] Como O Time De Suporte No site Ajuda A Solucionar Pedidos De Reembolso?",
+          "mensagem":"Ao receber uma solicitação de devolução e reembolso em que não houve pré-acordo entre comprador e vendedor, o time de Suporte No site entra em ação para investigar o caso e, com base nos pontos e provas apresentadas por ambas as partes, chegar a uma solução justa. Nosso time concluirá a investigação em até 5 (cinco) dias corridos. Por isso, pedimos que fique atento ao seu e-mail, pois manteremos você atualizado do caso por lá. Quando o caso for avaliado, nosso time informará o status para ambas as partes.  O pagamento será liberado para o comprador se o pedido de reembolso for aprovado; caso seja preciso devolver o item, o pagamento é liberado de acordo com sua modalidades, após o recebimento do item pelo vendedor. Boleto bancário - EBANX encaminha para o e-mail cadastrado um formulário em até 15 dias úteis para preenchimento, o reembolso para a conta ocorrerá em até 5 dias úteis após preenchimento do formulário. Cartão de Crédito - Reembolso em até 2 faturas subsequentes. Para entender melhor do que estamos falando quando mencionamos provas e evidências no processo de devolução/reembolso, consulte o artigo 'Quais arquivos podem ser úteis ao solicitar reembolso  '."
+      },
+      {
+          "id": 61,
+          "nome": "[Reembolso E Devolução] Como O Time De Suporte No site Pode Te Ajudar Com Solicitações De Reembolso",
+          "mensagem":"A do site sugere que compradores e vendedores conversem pelo chat se houver algum problema com o pedido. É comum que, ao explicar o problema, vocês cheguem a um acordo de forma mais rápida, sem que o time de Suporte No site precise ajudar.   Se não houver resposta ou um acordo entre vocês, o time de Suporte No site estará à disposição para resolver o caso.   Como vendedor, você terá duas oportunidades para solicitar nossa ajuda: Quando a solicitação de Devolução/Reembolso é feita Você tem até 2 dias para responder à solicitação e pode discordar dela, caso seja algum problema que não poderia ter sido evitado por você, como atrasos logísticos, por exemplo. Quando o item devolvido não estiver nas condições em que foi enviado Nestes casos, você tem até 5 dias após a postagem do produto pelo comprador para abrir uma reclamação. O time de Suporte No site ajudará em alguns casos:  Decidindo se a solicitação de devolução/reembolso é ou não aplicável (pode ser que uma solicitação de não recebimento tenha sido aberta algumas horas antes do pedido chegar); Investigando qualquer insatisfação em relação ao item devolvido; Investigando possíveis problemas logísticos que possam ter causado descontentamento para ambas as partes. Idealmente, o time No site considera o contexto e todas as evidências fornecidas por ambas as partes para tomar a decisão mais justa tanto para o comprador como para o vendedor; por isso, se possível, registre a embalagem do item enviado, o próprio item e eventuais capturas de tela de acordos realizados pelas partes no chat. Caso queira entender um pouco melhor quais evidências podem ser utilizadas nesses casos, confira nosso artigo Como a do site resolve uma disputa?  e Quais arquivos podem ser úteis ao de solicitar reembolso?  ."
+      },
+      {
+          "id": 62,
+          "nome": "[Solicitação De Reembolso] Quais Arquivos Podem Ser Úteis Ao Solicitar Reembolso?",
+          "mensagem":"1. Reembolso por não-recebimento Você pode abrir uma solicitação de reembolso por não recebimento se até a data informada no app você não tiver recebido o seu pedido. Nesse caso, não será preciso anexar nenhuma imagem ao abrir a solicitação de reembolso. Se o item estiver a caminho, nosso time irá sugerir que aguarde o recebimento para, então, reabrir a solicitação de devolução - isso facilita o processo de retorno do item. Caso o item esteja sem atualizações do nosso parceiro logístico por alguns dias (isso é, o rastreamento não é atualizado há mais de 14 dias), não se preocupe, você será reembolsado! Caso você tenha recebido o produto, mas não esteja satisfeito, abra uma solicitação de reembolso com o motivo correspondente até 7 dias após o recebimento. Não se esqueça de anexar evidências de sua solicitação, como fotos.  Explicamos um pouco mais sobre motivos que podem justificar seu pedido de reembolso abaixo.   2. Recebi um item errado, danificado, com defeito ou incompleto Lamentamos que esteja insatisfeito com o seu pedido, mas vamos orientá-lo sobre como proceder abaixo. Você tem até 7 dias após o recebimento do seu pedido para abrir uma solicitação de devolução via app do site. Fique atento pois algumas categorias não são retornáveis! (aqui). Observe também que a devolução de itens pessoais, como roupas íntimas, roupas de banho, roupas de cama e banho, maquiagem usada, produtos perecíveis, itens de mercearia, joias (brincos) e produtos para adultos é proibida. Para investigarmos corretamente a sua situação, costumamos solicitar algumas provas que vão nos dizer por que a sua experiência não foi satisfatória e como podemos melhorar!  Geralmente, pedimos que você anexe à sua solicitação de reembolso imagens que justifiquem o motivo do reembolso: Fotos do item recebido: Errado: item recebido de cor/tamanho diferentes Danificado: embalagem danificada, itens quebrados ou com danos (amassados, riscos) Com defeito: é comum que seja algum eletrônico, por isso, pedimos que você nos forneça alguma captura de tela com o dispositivo plugado que mostre qual é o problema Incompleto: imagem com todos os itens recebidos no pedido - caso esteja faltando alguma peça ou componente Histórico do chat ou qualquer outra evidência que nos mostre alguma negociação prévia com o vendedor (se houver)   Abaixo estão alguns exemplos de provas de pedidos danificados que podem nos ajudar a mapear o problema:   Embalagem do item recebido Material de embalagem utilizado Partes danificadas do item Abaixo estão alguns exemplos de provas de pedidos com itens errados que podem nos ajudar a mapear o problema:   Para item errado, você pode tirar uma foto do produto no seu App> Eu> Minha compra> Clique no nome do pedido> Clique no nome do item> Tire uma captura da tela do app. Tire uma foto do item recebido como comparação. Você também pode nos dar mais detalhes contando o que exatamente difere do que você pediu para facilitar a investigação pelo Time No site. Abaixo estão alguns exemplos de provas de pedido incompleto recebido que podem nos ajudar a mapear o problema:    Para item incompleto, pedimos que tire uma foto completa da embalagem recebida e seu conteúdo Uma imagem da nota fiscal pode nos ajudar a identificar o suposto peso da embalagem que você deveria ter recebido   Aqui NO site, o vendedor tem direito a discordar do pedido de reembolso. Não se preocupe! Isso não significa que você não receberá o seu reembolso se tiver direito a ele, nós apenas damos ao vendedor o direito de nos informar se o erro não foi culpa dele!   3. Mudança de ideia Conforme previsto no artigo 49 do Código de Defesa do Consumidor, você tem até 7 dias após o recebimento do seu pedido para abrir uma solicitação de devolução. Fique atento pois algumas categorias não são retornáveis! (aqui) Caso você tenha desistido ou se arrependido da compra dentro do prazo de 7 dias, você pode anexar imagens nos mostrando que o produto está em condições de ser devolvido ao vendedor para agilizar a sua solicitação.   Se você precisar retornar o item ao vendedor, consulte aqui  o passo-a-passo. Se você é comprador, sugerimos a leitura dos artigos 'O que é a garantia do site? Como isso me protege como comprador? ', “O que acontece se não receber meu pedido? Posso pedir reembolso? ”  e “Quando e como posso solicitar um reembolso/ devolução? ” para saber um pouco mais sobre as etapas da solicitação de reembolso."
+      },
+      {
+          "id": 63,
+          "nome": "Instruções De Devolução Para Compradores",
+          "mensagem":"É necessário preencher o seguinte modelo de Declaração de Conteúdo para o processo de Logística Reversa do nosso parceiro logístico: https://www.correios.com.br/enviar/encomendas/arquivo/nacional/formulario-declaracao-de-conteudo-a5 "
+      },
+      {
+          "id": 64,
+          "nome": "[Reembolso Da Devolução] Depois De Clicar Em 'Pedido Recebido' Ainda Posso Enviar A Solicitação De Devolução/Reembolso?",
+          "mensagem":"Aconselhamos todos os compradores a verificarem o pacote antes de clicarem em 'Pedido Recebido', pois o pagamento será liberado ao vendedor imediatamente após essa ação. Como o pagamento foi liberado, não poderemos processar nenhuma solicitação de reembolso ou devolução por itens faltantes, pedido não entregue ou por arrependimento. Em casos que o produto esteja defeituoso, com mal funcionamento ou seja divergente, estes poderão ser analisados mesmo se o comprador clicar em 'Pedido Recebido”.  O prazo para solicitar o reembolso, em ambos os casos, é de até 7 dias após o recebimento do produto, enquanto que para eletrônicos que apresentarem defeitos, o prazo é de até 30 dias. Reforçamos fortemente que analise e teste seu produto antes de clicar em 'Pedido Recebido' para não ter complicações com devolução e reembolso. Caso exija alguma reclamação de garantia do vendedor, recomendamos que você verifique com o vendedor via chat para processamento adicional. Saiba mais sobre Como solicitar um reembolso com a do site. Recomendamos que você consulte 'O que é a Garantia do site? Como isso me protege como comprador?', visto que este artigo explica em detalhes e pode te ajudar a se proteger melhor no caso de ter recebido um item insatisfatório."
+      },
+      {
+          "id": 65,
+          "nome": "[Reembolso Da Devolução] Como Devolver Meu Item Errado / Danificado Depois Que A Solicitação De Devolução For Confirmada?",
+          "mensagem":"Depois que a solicitação de devolução for confirmada pelo vendedor ou pela equipe de Disputa No site: Para pedidos locais Embale todos os itens (incluindo brindes, acessórios e embalagem) com proteção adequada e envie-os de volta ao vendedor dentro de 5 dias corridos a partir da data em que sua solicitação de devolução foi aprovada. Não é necessário colocar uma etiqueta com o endereço no pacote - uma etiqueta será disponibilizada na Agência dos Correios. 1.    Vá para a página de Detalhes de Devolução/Reembolso e clique no botão “Selecionar Entregador”.     2. Selecione a Opção de Envio e confirme.       3.    Veja seu Código de Devolução (apenas se você selecionou a Logística Reversa Correios). Este código deverá ser informado na Agência dos Correios.       Para pedidos do exterior Nossa equipe de disputa No site entrará em contato com você para informar o endereço de retorno. Certifique-se de enviar os itens a serem devolvidos em 5 dias corridos. Caso contrário, sua solicitação de devolução será automaticamente cancelada e o dinheiro será liberado para o vendedor.     Confira também os artigos Quando e como posso solicitar um reembolso de devolução? e Como a do site resolve uma disputa?  para saber o que pode acontecer depois disso. Tem outras dúvidas? Você pode clicar nas subcategorias abaixo para ver todos os outros tópicos relacionados. Você também pode entrar em contato conosco clicando no botão de e-mail abaixo."
+      },
+      {
+          "id": 66,
+          "nome": "[Reembolso Da Devolução] Se Meu Pedido Contiver Mais De Um Item, Mas Apenas Um Estiver Danificado, Posso Aceitar O Restante Dos Itens E Rejeitar O Único Item Danificado?",
+          "mensagem":"Se você comprou várias unidades do mesmo item, precisará receber ou rejeitar todos os mesmos itens enquanto solicita o reembolso. Sugerimos que você clique no pedido de reembolso de todos os itens e forneça documentos relevantes para o processo de reivindicação de itens danificados. Se você comprou itens diferentes, pode optar por devolver o produto específico que está danificado apenas quando solicitar reembolso. No entanto, se você comprou várias unidades de um item, mas apenas uma unidade está danificada, será necessário solicitar o reembolso de todo o item. Por exemplo, o pedido é feito para a compra de 1 unidade de Milo 2kg soft pack e 2 unidades de Nescafé 3in1 Original. Se um dos Nescafé for sendo danificado durante o transporte, você precisará solicitar o reembolso de 2 unidades em vez de uma devido a limitações do sistema. Uma amostra dos documentos necessários para esse tipo de reivindicação é mostrado no artigo 'Quais são os documentos de suporte necessários para um caso de solicitação de reembolso? '. Se você teve dificuldades em solicitar reembolso, consulte 'Quando e como posso solicitar um reembolso de devolução? '."
+      },
+      {
+          "id": 67,
+          "nome": "[Reembolso Da Devolução] O Que Eu Faço Quando O Produto É Perdido Ou Danificado?",
+          "mensagem":"Situação 1 : O comprador solicita um reembolso porque não recebeu o produto, mas você enviou o produto.   Prazo de postagem 1) Se o vendedor enviou o produto dentro do prazo de postagem mas o produto não chegou no prazo de entrega estimado, a do site reembolsa o comprador e não descontará do vendedor. 2) Se o vendedor não enviou o produto dentro de prazo de postagem, causando com que o produto não chegue dentro do prazo de entrega estimado, a do site reembolsa o comprador e descontará do vendedor.   Produto perdido Se a transportadora marcou o item como “Perdido”, a do site reembolsa o comprador e não descontará do vendedor.   Situação 2 : O comprador solicita uma devolução porque recebeu um produto danificado, mas você enviou o pedido com a proteção adequada.   Comprador  1) O comprador deve fornecer prova (ex: foto ou vídeo) do produto danificado recebido dentro de 3 dias.  2) O vendedor deve fornecer prova de postagem com proteção adequada. 3) Se o comprador não enviar a prova, o pagamento será liberado para vendedor. 4) Se a prova do comprador for inconclusiva, o pagamento será liberado para vendedor. 5) Se a prova do comprador for conclusiva, mas o pedido foi enviado com proteção adequada: A do site irá ressarcir o comprador e compensar você.  "
+      },
+      {
+          "id": 68,
+          "nome": "[Reembolso Da Devolução] Quem Paga A Taxa De Envio Para Devolver A Encomenda Ao Vendedor?",
+          "mensagem":"Este site arcará com a taxa do processo de devolução de itens do comprador ao vendedor. Todavia, caso seja evidenciado envio de produto errado ou produto com defeito, o vendedor deverá arcar com a taxa de devolução. No entanto, quando o vendedor estiver disputando a parte responsável pela taxa de devolução, o site, a seu exclusivo critério, determinará a parte responsável pela taxa de devolução. Este artigo 'Como o site resolve uma disputa? ' ajudará você a entender melhor o processo de um caso de disputa. Também é benéfico para você saber sobre 'Quais são os documentos de suporte necessários para um caso de solicitação de reembolso ', pois a equipe de disputa do site julgará cada caso com base na prova fornecida pelo comprador e pelo vendedor antes de concluir o caso."
+      }
+  ]
 }
